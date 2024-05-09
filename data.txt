@@ -1,0 +1,1945 @@
+Courses - Information Technology University
+ ITU FM 90.4
+ ITU FM 90.4
+Admissions Open
+About
+Short Courses 
+SSPO
+Graduates
+Graduates - 2017
+Graduates - 2018
+Graduates - 2019
+Graduates - 2020
+Graduates - 2021
+Jobs
+QEC
+ORIC
+Advancement & External Linkages
+Contact Us
+ Menu
+HOME
+FACULTY
+Administration
+ADMISSIONS 
+ADMISSIONS
+Overview
+Admissions Open
+Norms & Criteria
+Scholarships
+Kamyab Jawan Program
+UNDERGRADUATE PROGRAMS 
+UNDERGRADUATE PROGRAMS
+BS Economics with Data Science
+BS Computer Engineering
+BS Computer Science
+BS Electrical Engineering 
+BS Management and Technology 
+BS Software Engineering 
+BS Artificial Intelligence 
+GRADUATE PROGRAMS 
+GRADUATE PROGRAMS
+Executive MBA
+MS Development Studies
+MS Public Policy and Society
+MS Management and Technology
+MS Electrical Engineering
+MS Computer Engineering
+MS Computer Science
+MS Data Science
+PhD ELECTRICAL ENGINEERING
+PhD COMPUTER SCIENCE
+Trainings & Short Courses
+FAQs
+ACADEMICS
+NEWS 
+NEWS
+EVENTS AND HAPPENINGS
+Press Clippings
+RESEARCH
+PhD EE Interviews of all qualified candidates will be held at ITU, 4th Floor conference room on Thursday, 11th August 2022 at 11am.
+Courses
+Home/Centre for Executive Trainings/Courses
+Quick Links
+Fee Structure
+Trainers
+Courses
+Schedule
+Deadline & Schedule
+Application Process
+Admission Calendar 2022-2023
+FAQs
+Apply Now
+Short Courses & Certification Training
+Python Programming with AI/ML
+Details
+About
+This course summarizes machine learning models from an implementation perspective using python language. The course starts from the basics and advances to the more complex problems; hence anyone with a basic understanding of programming can attend this course.
+Duration: 8 Weeks
+Course Outline:
+Modules
+Lecture Number
+Lecture Topics
+Introduction to Python Programming
+(4 Lectures approx.)
+1
+Machine Learning and Python Introduction
+2
+Python Basic Data Types and their Operations
+3
+Conditional Statements and Loops
+4
+Object Oriented Programming
+Data Processing Libraries
+(4 Lectures approx.)
+5
+Tabular Data Handling with Pandas
+6
+Data Visualization with MatplotLib
+7
+Numerical Data Manipulation with Numpy
+8
+Basic Image Processing with Numpy
+Machine Learning with Sklearn
+(5 Lectures approx.)
+9
+Explanation of Machine Learning Tasks
+10
+Implementation of Regression
+11
+Implementation of Classification
+12
+Implementation of Clustering
+13
+Implementation of Dimension Reduction
+Deep Learning with Tensorflow
+(3 Lectures approx.)
+14
+Explanation of Deep Learning Foundations
+15
+Implementation of Feed Forward Neural Networks
+16
+Implementation of Convolutional Neural Networks
+Instructor Profile:
+Dr. Raees Khan
+PhD Computer Science (FAST-NUCES Islamabad)
+Program Manager, Department of Computer Science (ITU)
+Research Interests: Inter of Things (IoT), Cyber Security, Machine Learning
+Python Programming for Young Wizards
+Details
+Audience
+The course is designed for beginner level programmers and may not required any prior programming knowledge. Its better that the participants have a working knowledge of computer, files, internet and basic components of computer hardware.
+Duration
+8 to 10 weeks
+Topics covered
+Topics Covered
+Lecture 1
+Introduction to Programming and algorithms. Introduction to Python
+Lecture 2
+Getting Started with Python development, text output, console etc. Syntax and variables
+Lecture 3
+Numbers, strings, casting, strings and operators
+Lecture 4
+Arrays, Lists, sets, tuples and dictionaries
+Lecture 5
+Control statements, if, if-else, while loop, for loop
+Lecture 6
+Functions, Lambda and recursion
+Lecture 7
+Classes and objects
+Lecture 8
+Modules and File handling
+Lecture 9
+Internet, sockets, Json or CSV parsing etc
+Lecture 10
+Introduction to Tkinter,  basic UI in Python
+Instructor Name:
+ᐧPlease click here to view instructor profile.
+Web Development
+Duration
+8 to 10 weeks
+Course Outline
+Module 1: HTML
+Module 1: Web Programming Introduction
+Module 2: HTML-Introduction
+Module 3: HTML-Basic Formatting Tags
+Module 4: HTML-Grouping Using Div Span
+Module 5: HTML-Lists
+Module 6: HTML-Images
+Module 7: HTML-Hyperlink
+Module 8: HTML-Table
+Module 9: HTML-Iframe
+Module 10: HTML-Form
+Module 11: HTML-Headers
+Module 12: HTML-Miscellaneous
+Module 2: CSS
+Module 1: CSS2-Introduction
+Module 2: CSS2-Syntax
+Module 3: CSS2-Selectors
+Module 4: CSS2-Color Background Cursor
+Module 5: CSS2-Text Fonts
+Module 6: CSS2-Lists Tables
+Module 7: CSS2-Box Model
+Module 8: CSS2-Display Positioning
+CSS Floats
+Module 3:  JQuery/ JavaScript
+Introduction
+jQuery – Basics
+jQuery – Selectors
+How to use Selectors?
+jQuery – DOM Attributes
+jQuery – DOM Traversing
+jQuery – CSS Methods
+jQuery – DOM Manipulation Methods
+jQuery – Effects
+jQuery – AJAX
+jQuery – JSON
+Module 4: Bootstrap
+Introduction to Bootstrap
+Bootstrap Grid
+Bootstrap Components
+Bootstrap Plug-Ins
+Module 5: Database
+Introduction to Database Management System.
+Server Installation
+What is a Relational Database Management System?
+Key Concepts in Relational Database Management System
+Normalization Technique
+What is SQL and getting started with MySQL
+Types of commands in MYSQL
+Filter records in MySQL
+Operators in MYSQL
+Pattern matching in MYSQL
+Null values in MySQL
+Database CRUD Operations
+Module 6: Understanding of MVC
+Laravel/yii2 framework installation
+Basic Structure of Framework
+CRUD Generation
+Basic Concepts of MVC
+Plugin installation
+Authorization
+Authentication
+Web Application Development
+Instructor Profile:
+Saqib Ullah Khan is a Web Master at the Information Technology University (ITU). He holds a BS(Hons) degree in Computer Science. He has previously worked as a Software Engineer at Crunch Press & Code Forest. Having a hands on experience of over 8 years of PHP, Databases, jQuery and CSS and various web application frameworks i.e Laravel, Yii, CodeIgniter and Content Management Systems such as WordPress, Magento 1 & 2.0.
+Freelancing Plus Additional Skill
+Details
+Increasing number of people, especially students, are embarking on a new journey everyday through freelancing. It is helping them learn new skills and earn through an additional income stream. No matter if you are doing a full time stressful job or you are looking for one, freelancing gives you freedom to learn and earn from anywhere. Make the best of this opportunity and learn from one of the most experienced mentors.
+This course is especially designed for those people who love work-from-home and want to be their own boss. It covers World’s top Freelance websites in detail to teach you how you can make money online with no skill or prior experience. The Freelance websites which will be covered in this course include:
+Fiverr.com
+Freelancer.com
+WordPress Development
+Duration
+8 to 10 weeks
+Course Outline
+Module 1: Introduction
+What is Freelancing?
+Why Freelancing?
+Types of Freelance Marketplaces
+Ways of Freelancing
+How much time you need to get started
+Pros & Cons of Freelancing
+How to select your skill?
+Types of skills required for a freelancer
+Module 2: What Sets you apart as a Freelancer?
+Presenting your work
+Communication Skills
+Defining Projects Deliverables
+Professional Behavior
+How to set high hourly rates in Freelance Profile?
+Module 3:  Mistakes & Problems every Freelancer face
+Which project should I take?
+Pricing Yourself
+Time Management for Freelancers
+Setting project scope in the beginning
+Freelancing Behavior
+Lack of client’s response
+Freelance Portfolio & Profile mistakes & Examples of great portfolios
+Module 4:  Freelance Job Hunting Skills 
+Writing Job Application
+Freelance Job selection
+Bidding on the right project
+Identifying Fake Projects
+When to put a premium bid?
+Writing effective proposals
+Module 5:  Find work on Fiverr.com
+Sign up and create a Profile on Fiverr
+Main tips of creating a Perfect profile
+GIG understanding & overview
+The importance of Keywords
+Feedback and Client Reviews for Profile
+How to promote your Gig?
+The important of multiple Gigs
+Funds withdrawal method (Payoneer)
+Fiver Disputes
+Module 6:  Find work on Freelancer.com
+Sign up and create a Profile on Freelancer
+Best time to create profile
+Bidding on projects
+Bid types and requesting Milestone’s payment
+Payment integration
+Withdrawal methods (Skrill & Express)
+Module 7:  Outsourcing
+What is outsourcing?
+When to think about outsourcing?
+Using software to keep the check on progress
+Payment Milestones
+Module 8: Additional Skill: WordPress Development 
+How to Make a WordPress Website: Step-by-Step Guide for Beginners
+Instructor Profile:
+Mr. Salman Javed has done graduation in Computer Science. Currently, he is working as a System Engineer at Information Technology University. His professional experience spans over more than 5 years. He has been providing online services as a freelancer to many small and large businesses on Fiverr and Freelancer.
+Based on his vast experience, he has designed a short course on Freelancing in order to share his experience and equip the students to achieve their goals through learning and earning.
+Students may learn the latest techniques and future trends of freelancing through this course and apply them to launch or further enhance their freelancing career.
+MS Office (Excel & Word)
+Duration
+8 to 10 weeks
+Course Outline:
+Introduction to Microsoft Excel:
+Introduction, practical use and basic components of Microsoft Excel.
+Open a new, blank workbook.
+Base a new workbook on an existing workbook and on a template.
+Create and edit your own templates.
+What is the office backstage view and what can you do with it?
+Preview worksheets before printing.
+Printing worksheets and workbooks.
+Formatting data:
+How to enter, format, edit and view data.
+Copy and moving data.
+How to change the format of numbers?
+How to apply Conditional formatting.
+How to select, navigate and manage worksheets.
+How to add supporting comments in cells.
+Managing data and workbooks:
+Introduction to managing data.
+Importing/Exporting data from/to a text file.
+Overview of text import wizard.
+Usage of charts and steps for drawing up charts.
+Types, elements and modification of charts.
+How to find, edit and refresh existing data connections.
+Exchanging or exporting data with different data sources and from excel to word.
+Introduction to Microsoft Word:
+Introduction and practical use of Microsoft word.
+Creating and saving a document.
+Page numbers, headers and footers.
+Page breaks and section breaks.
+Page setup.
+Office backstage view of Microsoft word.
+Printing a document.
+Formatting, Illustrations and Tables:
+Formatting includes styles, fonts, paragraph settings and sorting lists alphabetically.
+Illustrations includes pictures & clip art, Shapes, Charts, Text boxes, Wordart.
+Creation, editing and deletion of table.
+Instructor Name:
+Mr. Israr Ahmad
+Israr ahmad is an accountant at Information technology university of the Punjab. He has more than 7 years of experience of using microsoft excel and microsoft word at different corporate levels. Israr ahmad holds a master’s degree (M.COM) in accounting & finance from university of central Punjab. After this, he completed his certificate named Assessment of fundamental competencies from ICAP, formerly known as CA foundation. In addition, he has worked as freelancer and completed more than 200 projects related to financial analysis, microsoft excel and business plans. His primary goal is to provide a positive and respectful learning environment where he can guide individuals to develop a new skill set, embrace challenges and go beyond their own expectations.
+Graphic Designing
+Course Details
+This graphic design course is developed for students, hobbyists and aspiring designers with little to absolutely no design experience. Keeping this in mind, the course will provide you with foundations for creating apps that stand out. You will explore key UI and UX concepts that are fundamental to smooth, no fuss, creative apps that are loved by users.
+The course has a secondary component that focuses on practical, hands on design workflow. From user flow diagrams to wire-framing to mockups and prototypes, you will explore all components to a successful app design.
+This graphic design course is developed for students, hobbyists and aspiring designers with little to absolutely no design experience. Keeping this in mind, the course will provide you with foundations for creating apps that stand out. You will explore key UI and UX concepts that are fundamental to smooth, no fuss, creative apps that are loved by users.
+The course has a secondary component that focuses on practical, hands on design workflow. From user flow diagrams to wire-framing to mockups and prototypes, you will explore all components to a successful app design.
+Some of the components that this course will touch upon are:
+Typography
+Colour Theory
+UI/UX design for mobiles
+Actual design workflow
+Duration
+8 to 10 weeks
+Instructor Profile:
+Mujtaba Sajid Tirmizi
+Digital Media Marketing
+Details
+This Training course aims to provide the exceptional opportunity to learn complete SEO life cycle
+including effective Keywords Research, Latest On-Page SEO Techniques, Creative Web Creative Writing
+and other dimensions of Digital Marketing. The course will also include the in-depth knowledge of
+Google Trends, Google Adwords, Google Analytics, and Google Webmasters Tools. We will also cover
+how we can effectively use various Social Media platforms to promote the online presence of a website.
+This training course will be comprised of 10 interactive sessions of absolute learning, hands-on
+assignments, quizzes, and much more. This is an assignment based training course.
+E-commerce (Amazon)
+Course Outline
+WEEK 01
+What is E-COMMERCE / Why E-commerce / Types of E-Commerce Models ( ASSIGNMENT WISE AND PAYONEER ACCOUNT REQUIREMENT
+Why Amazon? ( ASSIGNMENT AMAZON SELLER ACCOUNT SIGN UP REQUIREMENTS)
+WEEK 02
+REQUIREMENTS FOR FBA WHOLESALE
+Types of Companies in USA and in UK and TYPES OF TAXES
+WEEK 03
+AMAZON FULLFILLMENT METHOD & Fees and Amazon Models
+AMAZON MARKET PLACES & BUYER DASHBOARD and Hunting Criteria Assignment 1 (10 products of wholesale with multiple seller)
+WEEK 04
+Assignment 2 (Product Hunting Criteria)
+Assignment 3 (Products that are not allowed and Gated And Ungated )
+WEEK 05
+Assignment 5 (Reviews, Ratings, Price)
+Assignment 6 (TOOL OS ADD AND KEEPA)
+WEEK 06
+Assignment 7 (TOOLS, SALES OUR EQUITY)
+Assignment 8 (Product weight and Brand details)
+WEEK 07
+Assignment 9 ( Brand Details )
+Assignment 10 (BUY BOX & VINE DEALS )
+Assignment 11  (HOW TO CALCULATE COST , LOSS AND PROFIT FOR USA  & UK)
+WEEK 08
+WHERE AND HOW TO HUNT THE CLIENTS
+HOW TO COMMUNICATE WITH CLIENTS
+HOW TO COMMUNICATE WITH BRANDS( BY EMAILS & PHONE CALLS)
+HOW TO FIND BRANDS FROM SELLERS ID (SPY ON STORE)
+Duration
+8 to 10 weeks
+Instructor Name:
+FARIS AND HAMMAD
+Filmmaking - (Photography, Videography & Editing)
+Duration
+8 to 10 weeks
+Details
+The Certificate in Practical Filmmaking course is intended for individuals with almost no filmmaking background and offers understudies a chance to work through a full generation cycle on a short film-from content advancement through to after creation. The course focuses on the study of four essential components of filmmaking: writing, directing,
+cinematography, and editing. To apply the ideas they learn in class, students write, produce, direct, and edit a short film exercises, using HD cameras, lighting packages, and advanced editing software. Practical workshops and training exercises provide a well-balanced prologue to the technical the craft of filmmaking and the art of visual storytelling.
+Instructor Profile:
+Working in Pakistani media for more than 15 years, Bilal is best acknowledged as Director. He has worked with some distinguished production houses and TV channels. Having a professional degree in filmmaking Bilal started his career with CINETEL PRODUCTIONS in 2004. He has worked with PRODUCTION UNDERGROUND from 2005 to 2009 and then joined APLUS ENTERTAINMENT as Senior Director in 2009 and was one of the pioneers. He has also worked with A&B ENTERTAINMENT and ZEEKAY FILMS as Drama Director. He has produced and directed several Musical shows, Reality Shows, Talk Shows, Telefilms, Drama Serials, Sitcoms, Documentaries, TV Commercials and Music Videos for different TV channels and clients. He has also worked with GEO TV and directed the flagship show “Hum Sab Umeed Se Hain”. He also worked as an Associate Director in Pakistani film Manto. Bilal has won several awards on different platforms including Lux Style Award for the best play Nautankee. He is also known as Director of Photography and Editor in the media industry. Currently, Bilal is working with ITU and heading the media team.
+AutoCAD: Basic to Pro
+Duration
+8 to 10 weeks
+Introduction to Course
+AutoCAD is an emerging field that combines creativity with technical skills. This course will help a trainee to acquire basic introduction of Computer Aided Design (CAD). This course will help you to learn this software step by step from beginner to professional level. The goal is to develop planning and designing skills starting with the fundamental theory and practice of AutoCAD and quickly advancing to draw basic drawing sets.
+This course puts you on the track of accomplishment by providing complete instructions on how to start your AutoCAD career as a freelancer and get the best AutoCAD jobs. The trainees can make a career in architectural & engineering design through this course.
+Course Outline
+Module 1: Introduction of AutoCAD
+Exploring the Interface: Ribbon, Panels, Model space, Layout tabs, Status bar, & Properties.
+Picking Points in the Drawing Area
+Opening an Existing File
+Saving a File as You Work
+Working with Multiple Files
+Understand AutoCAD setup tips, Options, Units, Workspace
+Understand basic drawing tools
+Module 2: Use of Commands
+Understand Layers – Name, Line type, Thickness, & Color
+Draw centre lines – Object snap, Line, Move, & Offest
+Draw exterior/interior walls, floor, millwork & openings – Polyline, Spline, Circle, Rectangle, Object Snap, Mirror, Fillet, Trim, Extend, Array, & Match Properties
+Assignment: Using different commands draw any Object to explore your creativity.
+Module 3:  Master Intermediate Skills
+Dim, & Dimension style
+Add/Edit blocks from AutoCAD Tool Palette & Other sources – Door, Window, Column, Plumbing, Furniture & Equipment
+Create custom blocks – Custom furniture
+Assignment: Make Sofa set furniture block
+Module 4:  Concept of Architecture drawings 
+Type of Drawings: Brief Introduction
+Examples of different live projects
+How to draw a plan from basic information?
+Assignment: Search different types of drawings produced in AutoCAD and present in front class.
+Module 5:  Draw an elevation and section from the floor plan
+Add/Edit Text & Annotation (in model space-annotative) – M Text, Text Style, M leader, and Multileader Style
+Using of blocks and furniture in drawings.
+Use of Hatch
+All details use in Architectural drawing set
+Assignment: Draw a 2D Plan.
+Module 6:  Set Sheets 
+Understand Model space and Paper space
+Set a new layout – Page layout and plot styles
+Set views in Paper space – Defpoints, scaling
+Add/Edit/Draw a title block
+Add/Edit symbols in Paper spaces – drawing title, elevation symbol and section letters, north arrow
+Printing
+Assignment: Draw a Basic Elevation. 
+Module 7:   Introduction of Submission Drawing 
+Review of submission drawing
+Examples of submission drawing
+Assignment: Final Project
+Module 8:   3D Modeling and Imaging
+Creating 3D Drawings
+Using Advanced 3D Features
+Editing and Visualizing 3D Solid
+Instructor Name:
+Rabia Muhammad Mansha 
+Instructor Profile:
+Rabia Muhammad Mansha is an Architectural Engineer. She has Six years of industrial experience in the construction, building design, management and architecture field. She also has three years of teaching experience as a Lecturer at COMSATS University of Information & Technology, Lahore. Currently she is working as Project Engineer in a UK based multinational Architectural Firm.
+She has done BSc Architectural Engineering from University of Engineering and Technology, Lahore and Masters of Architecture from University of the Punjab in Architectural Design.
+ Cloud Computing - AWS Solution Architect 
+Details
+Cloud computing is a highly sought-after skill due to its flexibility, scalability, and cost-effectiveness. It eliminates the need for expensive hardware and infrastructure investments and allows businesses to focus on their core competencies. With the integration of new technologies such as machine learning, artificial intelligence, and IoT, cloud computing is poised to become even more important in the coming years. Amazon Web Services (AWS) leads the pack with the largest market share, presenting a unique opportunity for individuals looking to pursue a career in cloud computing. Mastering AWS through this comprehensive course can position individuals to take advantage of the growing demand for cloud computing expertise
+Duration
+8 to 10 weeks
+Course Outline:
+Section 1: Fundamentals of AWS Cloud Computing
+Introduction to Cloud Computing
+Cloud Environment Architecture
+Cloud Computing Models 
+Introduction to Amazon Web Services
+AWS Global Infrastructure
+Section 2: Elastic Compute Cloud
+Launching our first EC2 instance
+EC2 instance types & Pricing Models
+Creating AMI and Image Templates 
+Understanding Security Groups – a Server side Firewall
+Section 3: Virtual Private Cloud
+VPC & Subnets 
+Private and Public Subnets
+Internet Gateways, VPC Peering & NAT Gateways
+VPN Setup 
+IP Addressing in AWS
+Section 4: Elastic Block Storage
+Introduction to Block & Object storage mechanism 
+Introduction to Elastic Block Store – EBS 
+EBS Snapshots 
+EBS Volume Types
+Instance Store Volumes
+Section 5: Simple Storage Service
+Introduction to Simple Storage Service (S3) 
+Features of S3 
+Storage Types 
+Static Website Hosting
+Versioning 
+Life Cycle Policy
+Cross Region Replication
+Encryption
+Section 6: Elastic File Storage
+Introduction to EFS
+Connect a drive via network
+Share the drive among multiple servers
+Section 7: Elastic Load Balancers and Auto Scaling
+Understanding High Availability Configuration 
+ELB Configuration with Classic and Application Load Balancers
+Auto Scaling
+Section 8: Identity & Access Management
+Understanding the IAM Policies
+IAM User, IAM Policy and IAM Role
+Section 9: Databases
+Introduction to Relational Databases 
+Creating our first database structure in MySQL
+Getting started with Dynamo DB 
+Know about Elastic ache, Redshift
+Section 10: Decoupling Applications
+Amazon SQS 
+Amazon SNS 
+Amazon SES 
+Kinesis Overview
+Section 11: Domain Name System 
+Introduction to DNS 
+Understanding DNS Records
+Introduction to Route53 
+Register a Domain using Route 53
+Manage DNS Hosts
+Section 12: AWS CloudFront
+Introduction to CloudFront 
+CloudFront with S3 
+CloudFront Advanced Concepts
+Section 13: AWS ECS
+Getting Started with Containerization
+ECS Services and Tasks 
+Load Balancing in ECS 
+ECS Scaling
+Section 14: AWS CLI and SDK
+Getting Started with AWS CLI 
+AWS CLI setup on EC2 instances
+Connect EC2 instance with other AWS services like S3 or SNS or SES 
+Section 15: Serverless Computing
+Serverless Introduction 
+Lambda 
+Setting up Server Auto Start with a Lambda Function
+Elastic Beanstalk
+Host a Sample PHP website using Elastic Beanstalk
+Section 16: Monitoring
+Understanding CloudWatch 
+Setup Alarms for Matrix changes
+Auditing AWS environment with CloudTrail
+Schedule Event Rules using Target based services
+Instructor Profile:
+Mr. Zeeshan Ali is a network engineer at Information Technology University, with a Master’s degree in Computer Science. He has more than seven years of experience in the field of IT, including teaching various courses as a visiting faculty member at BNU. Throughout his seven-year tenure in IT, he has gained practical knowledge in computer networks, system administration, and cloud computing.
+ Value Investing in Stock Market
+Details
+In Pakistan (according to a study conducted by IOSR journal Business Management) only 0.14% of population holds a capital market account. This course aims to remove some prevalent misconceptions regarding stock market. The PSX operates on certain financial rules and fundamentals. The objective of the course is to enable participants in becoming self-directed investors & increase financial literacy. This course will enable participants to practically analyze different investment options and chose the best.
+Duration
+06 weeks
+Course Outline:
+Week 1 
+What are stocks? 
+  Initial Public Offering (IPO) 
+Listing on the Stock Exchange
+Stock Market Dynamics
+How investors make money: Capital Gain & Dividend? 
+Trading vs. Investing
+ How retail Investors can invest in stocks?
+Week 2
+Balance Sheet
+Cash flow statement
+Income statement
+Week 3
+ Fundamental Analysis
+Understanding & Interpreting financial ratios
+ What is Insider trading? 
+ What is short selling? 
+What is pump & dump? 
+What is intrinsic value of shares? How to calculate intrinsic value? 
+How effective is P/E ratio and ROA in valuing a company? 
+Week 4
+Macro-economic Analysis
+Financial reports
+News (Print, electronic media, etc.) 
+Political factors
+Socio-economic factors
+Earning potential
+Week 5
+Sector specific Analysis of PSX
+Week 6
+How to operate the trading platform
+    Low volume stock
+    High Volume stock
+    Upper limit
+    Lower limit
+Overview of the PSX website/Data portal
+Instructor Profile:
+Ahsan, a business graduate and an investor at PSX, brings 3 years of expertise in company valuations and a strong foundation in value investing. Committed to increasing financial literacy in Pakistan, he empowers participants to become selfdirected value investors. Ahsan’s dynamic training style integrates real-world examples, offering a concise and practical approach for navigating the complexities of the stock market.
+Offering of Semester Courses as Short Courses 
+The Academic Council in its 21st meeting approved to open courses offered in the regular degree programs to external candidates as short courses. These courses for the external candidates will be opened after the consent from the concerned faculty members and approval of the Dean. It was also agreed that the upper limit of 15 external candidates will be allowed to enroll in one regular semester course, and there will be no lower limit.
+Cloud Computing (Google, AWS, Azure)
+Details
+SECTION1: INTRODUCTION TO CLOUD COMPUTING
+A Short History
+Client Server Computing Concepts
+Challenges with Distributed Computing
+Introduction to Cloud Computing
+Why Cloud Computing?
+Benefits of Cloud Computing
+SECTION2: CLOUD COMPUTING DEPLOYMENT MODELS
+Private Cloud
+Public Cloud
+Hybrid Cloud
+SECTION3: CLOUD DELIVERY/SERVICE MODELS
+Software as a Service (SaaS)
+Platform as a Service(PaaS)
+Infrastructure as a Service (IaaS)
+SECTION4: LINUX BASICS
+Linux basic Commands
+Linux basic Administration
+SECTION5: INTRODUCTION TO AWS SERVICES
+Amazon Elastic Compute Cloud(EC2)
+Amazon Simple Storage Service (S3)
+Elastic Block Storage (EBS)
+Elastic Load Balancing (ELB)
+Amazon Relational Database Service (RDS)
+Amazon DynamoDB
+Auto Scaling
+Amazon ElastiCache
+Identity and Access Management (IAM)
+Virtual Private Cloud (VPC)
+loud Formation
+Simple Email Services (SES)
+Simple Queue Services (SQS)
+Simple Notification Services (SNS)
+Server less computing (Lambda)
+Import/Export (Snowball)
+Code Commit
+Cloud Trail
+Elastic Beanstack
+Cloud Front
+Route-53
+Key Management Service (KMS)
+SECTION6: INTRODUCTION TO AWS
+Subscription to AWS
+Introduction to the AWS Management Console
+SECTION7: ELASTIC COMPUTE CLOUD (EC2) ESSENTIALS
+Regions and Availability Zones – Choose the right Region
+Amazon Machine Images (AMI)
+Working with AMIs
+Choosing the right AMI
+Deciding what goes into an AMI
+Finding the right AMI
+Pricing model in EC2 instances
+On-demand, Reserved, Scheduled, Spot instances, Dedicated Hosts
+EC2 Reserved Instance Marketplace
+Importing and Exporting Instances
+SECTION8: EC2 INSTANCES
+Building an EC2 Windows instance & Linux Instance
+Bootstrapping with user-data
+Setting up security
+Security with Key Pairs
+Working with the Security Group
+Different IPs assigned to an EC2 instance
+Assigning Elastic IPs
+Login/Access to the instance
+Creating your own custom AMI, Registering & Granting access to the AMI
+Placement groups
+EC2 instance protection
+Instance Roles
+Importing and Exporting Instances
+Elastic Network Interfaces(ENIs)
+Resources and Tags
+Accessing Meta-Data & use cases.
+SECTION9: ELASTIC BLOCK STORE (EBS)
+Elastic Block Store (EBS)
+EBS Volume Types
+EBS Encryption
+EBS Performance
+Instance Store volumes
+Instance Stores Available on Instance Types
+Instance Store Usage Scenarios
+Adding Instance Store Volumes to an AMI
+Optimizing Disk Performance
+Creating and deleting volumes
+Attaching and detaching volumes
+Mounting and Unmounting the attached volume
+Increasing the volume size
+Creating snapshots
+Creating Volumes & AMIs from Snapshots.
+Cross-Region snapshot copy & use cases.
+SECTION10: ELASTIC LOAD BALANCER (ELB)
+What Is Elastic Load Balancing
+How Elastic Load Balancing Works
+Classic & App ELB types.
+Creating load balancer
+Internal & External Load balancers
+Load balancing protocols
+Listener Configurations
+SSL Negotiation Configurations
+Attach & Detach Subnets
+Security groups for the load balancer
+Configure health check for the load balancer
+Adding multiple instances to the load balancer
+Custom Domain Names
+Cross-Zone Load Balancing
+DNS Failover
+Sticky Sessions
+Monitoring and Logging
+DNS Failover
+Sticky Sessions
+Monitoring and Logging
+Cross-zone load balancing
+Connection Draining
+ELB traffic logging
+SECTION11: AUTO SCALING
+What is auto scaling
+Auto scaling components
+Benefits of auto scaling
+Creating launch configuration, and its prerequisites.
+Creating Auto Scaling Groups (ASG)
+Attach & Detach EC2 Instances in ASG
+Configuration of auto scaling policies based on the Load on EC2 instances.
+Using Auto scaling with Elastic Load balancer (ELB).
+Temporarily Removing Instances
+Suspend and Resume Process
+Shut Down Your Auto Scaling Process
+Monitoring Your Auto Scaling Instances
+Health Checks
+Getting Notifications When Your Auto Scaling Group Changes
+SECTION12: SIMPLE STORAGE SERVICE (S3)
+Creating and deleting buckets
+Adding objects to buckets
+Getting objects
+Deleting objects
+Notifications
+Uses of S3 storage
+Working with Permissions of S3, Access Control, Bucket policy
+S3 Data encryption types
+Enable Versioning, Logging for S3 objects
+Lifecycle rules in s3
+Accessing S3 storage with Tools
+Hosting a Static Website
+Cross-Origin Resource Sharing
+Cross-region replication
+SECTION13: IDENTITY AND ACCESS MANAGEMENT (IAM)
+Creation of user accounts
+Setting up multi factor Authentication (MFA)
+Roles in IAM
+Groups in IAM
+Delegation of permissions for users
+Creation of custom policies for delegation
+Using Identity Providers
+Cross-Account Access
+Account settings
+Credential Report
+Encryption – Key Management Service (KMS)
+SECTION14: ROUTE 53
+Configuring Amazon Route 53 as Your DNS Service
+Registering a Domain Name and Configuring Amazon Route 53 as the DNS Service
+Migrating DNS Service for an Existing Domain to Amazon Route 53
+Creating a Subdomain That Uses Amazon Route 53 without Migrating the Parent Domain
+Working with Public Hosted Zones
+Working with Private Hosted Zones
+Working with Resource Record Sets
+Health Checks and DNS Failover
+Creating, Updating, and Deleting Health Checks
+Transferring a Domain from a Different AWS Account or Registrar
+Using IAM to Control Access to Amazon Route 53 Resources
+SECTION15: CLOUD WATCH
+Debugging cloud related issues
+Monitoring the AWS Service Health Dashboard
+Monitoring with Cloud watch
+Getting statistics for a specific EC2 instance
+Getting aggregated statistics
+Metrics for other AWS Services and related namespaces
+Setting up notifications
+SECTION16: SIMPLE NOTIFICATION SERVICES (SNS)
+Creation of a topic
+Subscribing to topic via Email
+Setting notification for EC2 instance changes
+SECTION17: SIMPLE QUEUE SERVICE (SQS)
+Creation of a queue
+Sending messages to the queue
+Sending SNS to SQS
+Retrieving messages from SQS
+SECTION18: SIMPLE EMAIL SERVICES (SES)
+Setting up email domain
+Limits of SES
+Test Email setup
+SECTION19: RELATIONAL DATABASE SERVICE (RDS)
+DB Instances
+Selecting the DB-Engine
+Configuring the Database Server
+Creating your Database
+Setting up automatic backups, snapshots & restores
+Authorizing access to the DB with RDS Security Groups
+DB Instance Replication
+Security: Using IAM to Manage Access to Amazon RDS Resources
+RDS Limits
+Managing MySql Database server
+DB Instance Life Cycle: Renaming a DB Instance
+Deleting or Rebooting a DB Instance
+Working with Storage Types
+Upgrading a DB Instance
+Working with Option Groups & DB Parameter Groups
+Working with Reserved DB Instances
+Monitoring
+Database Log Files
+SECTION20: CLOUD FRONT
+How CloudFront Delivers Content
+Working with Distributions
+Working with Web Distributions
+Working with Objects
+Request and Response Behaviour
+Serving Private Content through CloudFront
+Using an HTTPS Connection to Access Your Objects
+Using IAM to Control Access to CloudFront Resources
+Monitoring CloudFront Activity Using CloudWatch
+SECTION21: USE CASES
+Cloud Architecture Best Practices
+Cost Optimization
+Security Considerations
+Cost Calculation
+AWS CLI & use case to check instance, ELB, EBS states
+Building a simple web application in the AWS cloud
+Each section will take around 2-3 hours.
+Instructor Profile:
+Ali Zain
+Chief Executive Officer at Fireworks Technology / ProMaxWorld
+Lahore, Pakistan
+Summary
+With great product and talented people, Fireworks Technologyis developing one of most advanced cloud based ERP and POSsystems. Our goal is to empower businesses with most advance techand gave people a complete control on their business.Entrepreneur. Founder & CEO of of multiple software products &services companies.Specialties: Business Product Development, Software Development,branding and e-commerce
+Experience
+Fireworks Technology
+Founder
+January 2017 – Present
+Lahore, Pakistan
+Fireworks Technology is a emerging technology services company thatspecializes in ERP, HRM, HelpDesk Management System, POS andinventory management integrated with AI and data mining providing businessintelligence reporting, – Founded the company in 2017.- Introduced cloud Based ERP and POS system in 2018
+ProMaxWorld.com
+CEO
+May 2008 – Present
+Lahore, Pakistan
+ProMaxWorld.com is your personalized hub of supreme quality productsand services ranging from web designing, web development, e-commerce,branding, online marketing, web hosting and domain services, bespokesoftware development.
+Page 1 of 2
+Contrive Solutions
+Project Manager
+May 2015 – August 2016 (1 year 4 months)
+Pakistan
+Peak College, Lahore
+Lab Manager
+June 2008 – August 2008 (3 months)
+Education
+National University of Computer and Emerging Sciences
+Bachelor of Science (BS), Computer Science · (2010 – 2014)
+Trading Financial Markets
+Course Outline
+Details
+Trading is a business. Its not passive income. But, its a job where: You have no employess, no boss, no customers, location independent, you get UNCAPPED &EXPONENTIALLY GROWING SALARY.
+Worth it?
+Everything you would need to educate yourself to become a profitable trader is covered in this short course. The yearning years of learning, experimenting and experiencing is all in the course outline. The course focuses on the study of technical analysis used by Institutions of the world in order to predict the market and profit from the move. Detailed technicals, intense homeworks and practices and live trading sessions are all part of the course.
+Hopefully, after the course, the foundation will be strong to fast track the financial career into a fruitful trading profession!
+Duration
+8 to 10 weeks
+Instructor Profile:
+Mohammad Ali Zaheer is a qualified ACCA professional, expert in financial analysis and financial management. He is a Certified Trading Analyst with an experience spanning to 7 years in the financial markets and mentored by 3 professional millionaire traders from Japan, Malaysia and Canada. He has also worked with several Trading firms, Fund management companies and prop traders in Malaysia, Canada, Singapore, USA and Netherlands.
+Course Outline and Lecture Plan
+SR#
+Topic
+1
+Introduction to Financial Markets. Stocks, FX, Cryptos explained in detail and the volume traded daily.
+How do financial markets operate? Electronic communication network, straight through processing. Buying side, selling side.
+World trading sessions, time zones, time frames, major pairs, minor pairs, exotics.
+Fundamental trading
+Technical trading
+Economic trading
+The hierarchy and major players of the financial markets. (Banks, Investment Banks, Hedge funds, Institutions, retail traders)
+Myths about financial markets. Spam or real?
+Can you really make good wealth trading markets?
+2
+Introduction to the technical trading
+Introduction to the platform MT4, MT5 and how to use it? Familiarize with the platform.
+Types of traders and trading: Scalping, day trading, swing trading, and investment trading.
+What are Japanese candlesticks?
+Types of graphs.
+What are the charts showing us?
+How to use time frames with the platform?
+Buying and selling.
+Taking Profit (TP) and Stop Loss (SL)
+Position sizing.
+Leverage.
+Risk Management.
+Chart indicators, tools.
+Understanding trading lingo.
+3
+What is a trading plan?
+How can we trade everything based on the graph/chart interpretation?
+What to include in your trading list?
+Top down approach for the time frames. Monthly, weekly, daily, 4 hours, 1 hour, 30mins, 15 mins.
+Understanding Japanese candlesticks. (lecture no.4 based on it with live practice and homework)
+Trading levels of Support and resistance. (lecture no.5 based on it with live practice and homework)
+Trading zones of Supply and Demand. (lecture no.6 based on it with live practice and homework)
+Fibonacci Retracement levels. (lecture no.7 based on it with live practice and homework)
+Fibonacci Expansion levels. (lecture no.8 based on it with live practice and homework)
+Trend line Breakouts (lecture no.9 based on it with live practice and homework)
+4
+History of Japanese Candlesticks.
+Reading Japanese candlesticks and their formations. High/low/open/close.
+How to read and use candlesticks for the trading?
+Major effecting candles.
+Pinbars.
+Doji’s
+Engulfings
+Morning star
+Evening star
+5
+Basics of support and resistance
+How to draw support resistance lines.
+How to draw support resistance zones.
+Understanding support and resistance breakouts and retests.
+Determining a breakout.
+Determining a retest.
+Horizontal key chart levels.
+Non-Horizontal Key Chart Levels.
+Round-Number Key Chart Levels. (How the round number exchange rates affect the market sentiment)
+6
+What is a supply and demand?
+How to draw supply and demand zones?
+Understanding the 4 categories of Demand and supply.
+Drop base Drop (DBD)
+Drop base Rally(DBR)
+Rally base Rally(RBR)
+Rally base Drop(RBD)
+Understanding supply and demand breakouts and retests.
+Determining a breakout.
+Determining a retest.
+7
+What is Fibonacci retracements/pullbacks?
+How do we determine the retracement points?
+What retracement levels to use?
+Which levels are the most effective? 50/61.8/75/78.6/ 88.6
+What are the secret/hidden retracement levels?
+How to draw retracement confluences?
+8
+How to use and draw Fibonacci expansion?
+The way to extend/maximize profitable trading moves and profits.
+The major levels of Fibonacci expansion. 100/161.8/261.8.
+How to confluence Fibonacci expansions.
+9
+Introduction to trendlines.
+How to draw horizontal/vertical trendlines?
+How to accurately define the pivotal points of the trendline?
+Do trendlines actually work?
+Number of trendlines.
+Understanding trendlines breakouts and retests.
+Introduction to Relative Strength index (RSI) and commodity channel index (CCI)
+Forecasting the future price movement with accurately determining oscillators.
+How to use RSI and CCI with levels.
+Divergence trading to forecast future movement.
+10
+Understanding market structure and chart pattern.
+Break-retest factors.
+Determining a trend using Higher highs/Higher lows and Lower highs/Lower lows.
+How to identify chart patterns.
+Double bottom/top
+Head and shoulders/Inverse head and shoulders.
+Wedge pattern
+Flag pattern
+11
+Combining everything together to form a trading plan.
+How to use every tool explained in detail to form a plan.
+Plan the trade then trade the plan.
+How to scalp, day trade, swing using the formulated strategy with a plan.
+Understanding the risk management and risk to reward ratio to garner higher percentage of profitable trades.
+How to make 2%-5% a day using the techniques explained.
+12
+Market manipulation
+How the big shots thrash out retail traders for their benefit.
+Manipulative market movements.
+Stop loss hunting.
+How to align ourselves with the banks and hedge funds.
+How to follow the big guns and not go against them.
+Always following the trend.
+The 95% failure ratio of the retail trading world.
+How hedge funds crashed and regained their portfolio by managing risk.
+13
+Reality of crypto currencies.
+How to trade crypto currencies the same way as any other instrument with a graph.
+The myths about cryptos.
+Trading cryptos rather than holding them.
+Crypto exchanges and wallet and how blockchain is revolutionizing the crypto world and how ICO’S may be a major part of the market cap of the crypto’s.
+Bitcoin and its realities and myths .
+14
+Question and answer session.
+15
+Summing it all up.
+How to be a profitable trader.
+Trading instead of gambling.
+Identifying and treating financial markets as any other business and making a living out of it.
+Breaking down the myths of traders being gamblers.
+Not a get quick rich scheme.
+Practicing the strategy with a demo tester.
+The world of financial markets and its traders.
+Conclusive remarks on the whole strategy.
+Selling on Amazon from Pakistan(Amazon Virtual Assistant)
+Details
+TRAINING OBJECTIVES
+This course will enable the pass outs to become familiar with Amazon as a Virtual Assistant.
+In contrast to other short freelancing courses, this program is termed as Virtual Assistant for Amazon. Trainees will be learning the ways of being a Virtual Assistant for Amazon to take projects from customers and working from home as per customer’s requirement. The trainee will be able to deal with all the administration and customer support related to Amazon as well as able to find a product and launch in the Amazon.com marketplace.
+Filmmaking - (Photography, Videography & Editing)
+Duration
+8 to 10 weeks
+Details
+The Certificate in Practical Filmmaking course is intended for individuals with almost no filmmaking background and offers understudies a chance to work through a full generation cycle on a short film-from content advancement through to after creation. The course focuses on the study of four essential components of filmmaking: writing, directing,
+cinematography, and editing. To apply the ideas they learn in class, students write, produce, direct, and edit a short film exercises, using HD cameras, lighting packages, and advanced editing software. Practical workshops and training exercises provide a well-balanced prologue to the technical the craft of filmmaking and the art of visual storytelling.
+Instructor Profile:
+Working in Pakistani media for more than 15 years, Bilal is best acknowledged as Director. He has worked with some distinguished production houses and TV channels. Having a professional degree in filmmaking Bilal started his career with CINETEL PRODUCTIONS in 2004. He has worked with PRODUCTION UNDERGROUND from 2005 to 2009 and then joined APLUS ENTERTAINMENT as Senior Director in 2009 and was one of the pioneers. He has also worked with A&B ENTERTAINMENT and ZEEKAY FILMS as Drama Director. He has produced and directed several Musical shows, Reality Shows, Talk Shows, Telefilms, Drama Serials, Sitcoms, Documentaries, TV Commercials and Music Videos for different TV channels and clients. He has also worked with GEO TV and directed the flagship show “Hum Sab Umeed Se Hain”. He also worked as an Associate Director in Pakistani film Manto. Bilal has won several awards on different platforms including Lux Style Award for the best play Nautankee. He is also known as Director of Photography and Editor in the media industry. Currently, Bilal is working with ITU and heading the media team.
+Cyber Ops
+Ethical Hacking
+Details
+This course covers the basics of hacking, operating system loopholes, trojans & backdoors, web application vulnerabilities, SQL injections, cryptography, viruses & worms and social engineering.
+The course has been designed for an independent certification which the students can take on their own after completion of this course.
+Duration
+8 to 10 weeks
+Summary
+Hands-on information technology manager/Project Manager, known for innovative approach to solving problems. Team leader experienced in building and motivating professional, capable, and responsive organizations. Polished and professional writer and presenter.
+Effective in fostering collaboration and consultative relationships with senior management and across traditional boundaries; highlighting inflection points of technology decisions.
+Technical leader with broad experience, brings focus on “big picture” business impacts of technology projects: real costs, practical benefits, risks and contingencies.
+Adaptable – skilled at supporting individuals, building systems, handling problems; as well as managing teams, training, developing strategies, policies and processes.
+Managing a Support Desk System
+Self-directed & motivated person with strong technical skills of senior level
+About 12 years of experience in maintaining successful CIA confidentiality, integrity, availability) of different networks.
+Can identify and recommend improvements to the existing processes
+Experience
+Cisco Network Academy
+RedHat Academy
+Microsoft Academy
+Oracle Academy in ITU and working as Master Trainer
+Managing a lean team providing systems, network, end-user and technical support
+Major individual contributor for ITU’s new campus erection, including enhancing data storage, disaster recovery capabilities, and security. Implemented systems/configuration management automation, planned and executed moves to new facilities. Responsible for data center design, office space networking, access control; HVAC, electrical and networking installation contractors
+Led initiatives in virtualization, upgrading corporate LAN/WAN/Wireless networks, Email System Security, network monitoring, reducing business risk and increasing efficiencies. Negotiated several significant networking contracts, upgrading bandwidth, improving security and manageability of company networks.
+Introduced new technologies and professionalized department, including processes to track problem resolution and manage software licensing and installation; promoted training and development of staff Utilized communication skills and deep technical knowledge to provide solutions for individuals and organizations; expanded competency in key areas through independent projects and presentations
+Project areas included development and implementation of Asterisk on Linux (CentOS 7/Red Hat Enterprise Linux 7, Ubuntu), Unix (Solaris, AIX), Macintosh (OSX 10.X), Windows (Windows 10, Server 2012/2016, Monitoring (Solarwind Orion), Exchange Server 2012; licensing/acquisition issues), Amazon Web Services (cloud-based), VMware ESX/ESXi, MySQL, Oracle, NetApp, EMC Clariion, cfengine, LSF, SAS.
+Email implementation (Postfix, DMARC, DKIM, Mailman)
+Programming: bash, shell scripting/utilities, Perl, C.
+Applications: Microsoft Office, OpenOffice; Adobe CC; Apache 2.2,
+Network: TCP/IP (DNS, SMTP, ssh, HTTP, X11, BGP/WAN, 802.11, etc.), IPv6, Ethernet, Postfix, Juniper ScreenOS, Cisco IOS; VoIP (Asterisk 1.8, SIP telephony), PGP.
+Secure VPN establishment with CISCO ASA with IPSec Designing and implementing security policy to protect internal network against unauthorized access.
+Designing and implementing disaster recovery plan to prevent any data loss due to any hardware, software problem or in the event of any successful intrusion/attack.
+Configuring and installing various network scanning tools i.e., Solarwinds Network Monitor, CISCO NIDS, Websense for safe web access etc.
+Setting up and securing all network servers, including Domain Name Servers (NT DNS & Linux/Unix BIND), Email Servers (NT Exchange Server & Linux/Unix Sendmail, POSTFIX, Qmail, MDaemon) and WWW Servers (windows IIS & Linux Apache, Tomcat)
+Conducting network security assessment and penetration testing of numerous clients using manual methods, commercial and open source software.
+Education
+MPhil Project Management (COMSATS) (in progress)
+Masters in Computer Science (MCS)
+(Specialization in Computer Networks)
+Institute: University of the Punjab
+Masters of Sciences (Chemistry, specialized in instrumentation)
+Institute: University of the Punjab
+Instructor Name:
+Shoaib Bhatti
+Introduction to Digital Journalism & Vloging TTS -Tips, Tricks & Strategies
+Duration
+8 to 10 weeks
+Introduction to Course
+This course focuses on the principles and practices of digital journalism & vloging, enabling students to understand the ever-evolving landscape of modern news reporting and story telling. Students will learn to create compelling stories across various digital platforms, employing multimedia tools and engaging with online audiences.
+Course Assessment and Final Project:
+Assignments and quizzes throughout the course
+A final project involving the creation of a multimedia journalism piece
+Instructor Profile:
+Khurram Jalil Rana is a Program Manager-Media at Information Technology University, With a master’s degree in Mass Communication and a professional career spanning over 14 years, Khurram Rana is an experienced media professional. His journey began in 2009 at THE NEWS International before transitioning into broadcast media with multiple roles as a Director and Producer. His impressive professional timeline includes working at ATV/A-News on various projects. He has produced several projects for GEO Entertainment and directed Morning Shows at Aplus Entertainment. As Programming Head at Channel Five he transformed the entire programing. He has also established multiple current affairs and entertainment digital channels. Khurram Rana has a diverse background in the media landscape. Currently, he is applying his expertise as Program Manager-Media at ITU Punjab, the country’s premier research university.
+Public speaking and communication skills
+Duration
+8 to 10 weeks
+Course Outline
+Public speaking is a leadership quality – it can lead to better job propositions, enhancing your quality of life. This course has been designed to teach public speaking and delivering a speech. Public speaking is a lifelong skill that is required for everyone to create an impact in schools, universities, workplaces, and even social gatherings. It helps you form connections with others, and helps in sales and marketing jobs too. The point is to change your circumstances, putting your points across, standing up for others, and knowing how to say what you need to say to create an impact.
+Address your concerns to your audience effectively. Public speaking is a required skillset in today’s day and age. The art of persuasion is important in all our professional and personal relationships. It is important in building a network, storytelling and even entertaining people. This course will do that, while focusing on empathy in speech and public speaking.
+Class breakdown:
+Class 1:
+Introduction of all participants + History of public speaking (Ancient Civilizations)
+Class 2:
+Art of Public Speaking + Speaking clearly
+Act of Expression + Building confidence + Learning to put your ideas across
+Class 3:
+Understanding the needs of your audience.
+Working on content and information to impart to an audience
+Class 4:
+Watching a few Ted talks – comparisons + class discussions
+Homework – write a speech and deliver it in the next class.
+Class 5:
+Examples from movies – speech as a life-changing moment for characters
+Class 6:
+Organizing your speech – difference between spoken and written text
+Class 7:
+Developing confidence through your own idea
+Class 8:
+Communicating and making your speeches interactive. (Examples of stand-up comics).
+Class 9:
+Final Presentations : Speeches – comparing their performance from class 2 to class 10
+Class 10:
+Speaking in front of a camera – Art of performing a speech
+Instructor Name:
+Fatima Hassan
+Creative Writing
+Duration
+8 to 10 weeks
+Course Outline
+Class breakdown:
+Class 1:
+Building a Narrative
+In this class we will learn how narration is an important part of a story, and what is required to write a winning story for publication. Narration is the most important part of a story, and it tells the audience what to expect from a storyteller. We will also discuss different genres and types of writing in this class.
+Class 2:
+Writing Perspective
+It is important to know who your audience is, and one should always define their purpose before writing any piece of fiction. Some stories are worth telling, and others need to be tweaked to bring in more perspectives to make a story complete. We will talk about first-person, second-person and third-person narration in this class.
+Class 3:
+Writing about Object
+For this class, the participants will have to bring any two or three objects with them. These objects can be anything that is important or holds any sentimental value. Talk about these objects in the class to give context to our participants, and then write a story based on some of the objects that you found most appealing in this class. You’ll be
+surprised at how important an object can be in any story.
+Class 4:
+Character Building
+In this class we will fill out character worksheets on our main character and talk about main characters from various movies and novels previously seen and read by the participants. We will look at the components that make a strong, relatable character who leaves an impact on the readers and viewers. Create your own characters whom you wish to write about.
+Class 5:
+Setting a Place
+There are no limits to anyone’s imagination. The participants can choose any setting that exists in the world, and a place you are far too familiar with all the way to a conversation that takes place in a galaxy far far away. Here, we will talk about various ways a setting is important in setting the mood of a story, and even enhancing the plot in a story.
+Class 6:
+Plotting Away
+The participants will be given worksheets to create a plot. We will look at the five act rule, and how it is imperative in telling a story. Plot is one of the most important feature in a story, and sometimes takes precedence over the main character if the plot is too strong. Everyone will be encouraged to talk about their progress up to this class
+Class 7:
+Dialogues
+Everyone has their own way of talking. Sometimes shadow work works best. We will look at various stories where dialogues move the story forward, and the kind of dialogues that are used to depict fear, anger, happiness and every single human emotion possible.
+Participants will be encouraged to bring their favorite dialogue scenes in movies and novels and present those to the class before writing it all down.
+Class 8:
+Peer review 1
+We will all be reading each other’s work and giving constructive feedback, highlighting what we liked best in that short story. It is important to come having read each other’s work before this class.
+Class 9:
+Peer Review 2
+Normally, two sessions are required to ensure everyone’s work is reviewed and given due importance.
+Class 10:
+Bringing it all together
+We will bring together everyone’s stories and see the progress we have made in this course.
+There will be readings given in each class by the course instructor. Every class has a 10 to 20 minute writing exercise which will have to be completed in the allotted time, as well as writing assignments to be handed in later.
+Instructor Name:
+Fatima Hassan
+Search Engine Optimization 
+Details
+The aim of this SEO training course is to improve and enhance the technical knowledge of the students and the job seekers on the search engine optimization.
+Introduction to Search Engine Optimization 
+Introduction to SEO
+Importance and Upcoming Trends of SEO
+How Search Engines Work?
+How Google works with your website
+Life Cycle Of SEO
+What Are Keywords?
+Types of Keywords
+Trends Monitoring and Rising Keywords as per your business/services category using Google Trends
+Find out the keyword popularity according to region in Google Trends
+Know the average monthly searches of your keyword(s) using Google Keyword Planner
+Use Google Keyword Planner to extract related keywords
+Criteria to finalize the list of keywords
+ON-Page SEO 
+How to write effective Title, Meta Description and Meta Keywords
+CTR – Click Through Rate
+Only being Top Ranked is not enough
+Heading Tags
+Why Content is KING?
+Keyword Placement in Content
+How the web content guidelines transform over the years?
+Google Panda ( The Latest Creative Writing Guidelines)
+Keyword density
+keyword stuffing (Over Optimization)
+HTML Tags, an SEO should know
+Image optimization
+Internal links
+URL/Permalinks
+The detailed discussion on User Experience and Navigation
+Implementation Redirect 301
+Why Robots.txt
+Role of a sitemap and how to create
+Anatomy of a SEO friendly Website
+(Google Search Console AKA GOOGLE WEBMASTERS TOOLS)
+Introduction To Google Webmasters Tools
+Setting Up Google Search Console
+Adding property to Search Console
+Verification
+Enable Email Notifications
+Sitemap submission to Google
+Search Appearance -> HTML Improvement (Google Bot findings about your web pages)
+Search Traffic Report -> The most important report
+Google Index ->Index Status
+Crawl -> Fetch As Google
+txt tester
+Critical Messages about your website
+OFF-Page SEO 
+How to write effective Title, Meta Description and Meta Keywords
+In Depth Discussion About OFF Page SEO
+What Google says about backlinks?
+How to get backlinks?
+Link popularity
+Detailed explanation of Google Penguin
+How Google checks the “naturality” of the back links?
+Linking building according to the guidelines of Google Penguin
+Types and methods of link building
+Do-follow VS no-follow links
+Link Building Platforms
+Google Analytics 
+Introduction To Google Analytics
+Setting up Google Analytics
+Dashboard statistics
+Real Time Reporting
+Predefined Reports
+How to create Custom Reports
+Goals
+Filters
+Google Ads Linking With Google Analytics
+Red hat Certified System Administrator (RHCSA)
+Details
+Understand and use essential tools
+Installation of Red Hat Linux
+Access a shell prompt and issue commands with correct syntax
+Use input-output redirection (>, >>, |, 2>, etc.)
+Use grep and regular expressions to analyze text
+Access remote systems using SSH
+Log in and switch users in multiuser targets
+Archive, compress, unpack, and uncompress files using tar, star, gzip, and bzip2
+Create and edit text files
+Create, delete, copy, and move files and directories
+Create hard and soft links
+List, set, and change standard ugo/rwx permissions
+Locate, read, and use system documentation including man, info, and files in /usr/share/doc
+Operate running systems
+Boot, reboot, and shut down a system normally
+Boot systems into different targets manually
+Interrupt the boot process in order to gain access to a system
+Identify CPU/memory intensive processes and kill processes
+Adjust process scheduling
+Manage tuning profiles
+Locate and interpret system log files and journals
+Preserve system journals
+Start, stop, and check the status of network services
+Securely transfer files between systems
+Configure local storage
+List, create, delete partitions on MBR and GPT disks
+Create and remove physical volumes
+Assign physical volumes to volume groups
+Create and delete logical volumes
+Configure systems to mount file systems at boot by universally unique ID (UUID) or label
+Add new partitions and logical volumes, and swap to a system non-destructively
+Create and configure file systems
+Create, mount, unmount, and use vfat, ext4, and xfs file systems
+Mount and unmount network file systems using NFS
+Extend existing logical volumes
+Create and configure set-GID directories for collaboration
+Configure disk compression
+Manage layered storage
+Diagnose and correct file permission problems
+Deploy, configure, and maintain systems
+Schedule tasks using at and cron
+Start and stop services and configure services to start automatically at boot
+Configure systems to boot into a specific target automatically
+Configure time service clients
+Install and update software packages from Red Hat Network, a remote repository, or from the local file system
+Work with package module streams
+Modify the system bootloader
+Manage basic networking
+Configure IPv4 and IPv6 addresses
+Configure hostname resolution
+Configure network services to start automatically at boot
+Restrict network access using firewall-cmd/firewall
+Manage users and groups
+Create, delete, and modify local user accounts
+Change passwords and adjust password aging for local user accounts
+Create, delete, and modify local groups and group memberships
+Configure superuser access
+Manage security
+Configure firewall settings using firewall-cmd/firewalld
+Create and use file access control lists
+Configure key-based authentication for SSH
+Set enforcing and permissive modes for SELinux
+List and identify SELinux file and process context
+Restore default file contexts
+Use boolean settings to modify system SELinux settings
+Diagnose and address routine SELinux policy violations
+Features
+Enrollment in redhat portal
+Certification discount upto 50%
+Hands on experience on Linux
+Requirements
+PC or Laptop with internet Connection
+Prerequisite 
+Intermediate with basic computer knowledge
+Mobile App Development(Android)
+Duration
+8 to 10 weeks
+Details
+Lecture 1
+Introduction to mobile application development. Limitations, challenges, advantages and design considerations for the mobile platform.
+Introduction to Android studio, a hello world application
+Lecture 2
+Role of XML in Android apps, layouts, strings, manifest, menu and more
+Working with multi-screen applications, Activities and their working
+Menus, Buttons, Text Fields and other basic user interface elements on Android
+Lecture 3
+Android Intents and interaction between different applications.
+Broadcasts and Broadcast receivers in Java and their applications
+Lecture 4
+Internet connected apps, connecting sockets, making web requests and staying connected, downloading photos and text, handling JSON
+Background processing, threads and AsyncTasks in Android
+Lecture 5
+Android Services and their working, how to make Services talk to the Activities
+Lecture 6
+Design considerations, working with variety of screen sizes and resolutions
+Signatures, signing apps for app store, basics of Google Play store and publishing, Analytics, Firebase , Ads etc
+Lecture 7
+Persistent Data Storage in Android, handling file system and more
+Lecture 8
+Working with Sensors like Accelerometer, Gyroscope, Light sensors, Temperature sensors etc in Android
+Lecture 9
+Handling Camera and pictures, an example app
+Lecture 10
+Handling GPS, location, google maps and making an example app using that.
+Instructor Profile:
+ᐧPlease click here to view instructor profile.
+ Cloud Computing - AWS Solution Architect 
+Details
+Cloud computing is a highly sought-after skill due to its flexibility, scalability, and cost-effectiveness. It eliminates the need for expensive hardware and infrastructure investments and allows businesses to focus on their core competencies. With the integration of new technologies such as machine learning, artificial intelligence, and IoT, cloud computing is poised to become even more important in the coming years. Amazon Web Services (AWS) leads the pack with the largest market share, presenting a unique opportunity for individuals looking to pursue a career in cloud computing. Mastering AWS through this comprehensive course can position individuals to take advantage of the growing demand for cloud computing expertise
+Duration
+8 to 10 weeks
+Instructor Profile:
+Mr. Zeeshan Ali is a network engineer at Information Technology University, with a Master’s degree in Computer Science. He has more than seven years of experience in the field of IT, including teaching various courses as a visiting faculty member at BNU. Throughout his seven-year tenure in IT, he has gained practical knowledge in computer networks, system administration, and cloud computing.
+Amazon Wholesale FBA
+Duration
+8 to 10 weeks
+Details
+Lecture 1
+Introduction / What is Retail / Retail Supply Chain / Why Amazon? / Amazon Supply Chain
+Importants Terms to Know / Overview of Amazon / Fulfilment Methods /Business Models
+How Amazon Wholesale Business Works
+Lecture 2
+What is an Authorized Supplier ? / Most Important Things in Amazon Wholesale FBA Model
+ROI & NEt Margin Calcultations / Business Structure / Useful Google Chrome Extensions
+What is buy box ? / How to win the buy Box / Amazon Calculator
+Lecture 3
+Product hunting Keepa intro , product Hunting introduction
+Lecture 4
+Product Hunting Through Filters Criteria
+Practical Class
+Assignemnt
+Lecture 5
+Assignment Checking
+Product Hunting By Seller ID’s
+Product Hunting By Product Best Seller
+Lecture 6
+Revision & Practical Class
+Product Hunting By Seller ID’s
+Product Hunting By Product Best Seller
+Lecture 7
+Product Hunting By Brands Name
+How to Use Category Tree and Hunt Products
+Lecture 8
+Revision & Practical Class
+Product Hunting By Brands Name
+How to Use Category Tree and Hunt Products
+Lecture 9
+How to Find Suppressed Listings by Keepa
+How to Find Best Products in Variations of Products
+Lecture 10
+Revison & Practical Class
+How to Find Suppressed Listings by Keepa
+How to Find Best Products in Variations of Products
+Lecture 11
+Brand & Distributor Hunting
+Website analysis of brands
+– About us page
+– how much products
+– Big or small brand ?
+Contact Us : / Email , phone no , website link / Product item # of brand
+Lecture 12
+Hubspot software – 12
+Practice in class & assignment for next week to collect the leads of 200 brands
+How to Make an account on Fiver & Create Gigs
+Lecture 13
+How to Communicate with Brand or distibutor through email?
+Calling to brands or distributors / Email Scripts / Emails crosspondance
+How to analysie Excel Sheets / Analysis of Excel sheets practical
+Lecture 14
+Seller Central overview
+How to metoo product / Replanishment / Manage FBA Inventory / Inventory Planning
+Price Management / Manage order / Payment reimbursment
+Instructor Name:
+Mr. Fahad Sultan Alvi
+Amazon Virtual Assistant
+Duration
+8 to 10 weeks
+Instructor Name:
+Mr. Fahad Sultan Alvi
+Linux Administration
+Duration
+8 weeks
+Instructor Name:
+Mr. Zeeshan Ali
+Supply Chain & Procurement
+Duration
+8 to 10 weeks
+Introduction to Course
+This is an introduction to the fascinating world of Supply Chain Management. When you complete the program you’ll have a richer understanding of the complexities that companies are facing in today’s global networked economy. The course is for you, if:
+you’re looking to start a career in Supply Chain Management, but lack the basic background;
+you’re working with people in Supply Chain Management and want to understand their daily challenges better;
+you’re fascinated by how the global economy is linked together by the flow of products, information, and finances.
+The Supply Chain Management course is made up of four basic courses in logistics, operations, planning, and sourcing. The Supply Chain Logistics course will cover transportation, warehousing and inventory, and logistics network design. The Supply Chain Operations course covers techniques used to optimize flow and focuses specifically on Six Sigma quality and Lean practices. In the Supply Chain Planning course you’ll learn different forecasting approaches. The Supply Chain Sourcing course deals with different techniques that help you create lasting and productive supplier relationships.
+This course will be accompanied with procurement knowledge and government sector departments practices in procurement which will be beneficial for your future Career practices in different semi government or government organizations or if you are dealing with government departments as supplier or manufacturer.
+Course Content:
+Week 1:
+Introduction to Supply Chain Management, Why Supply Chain Management is important today
+Week 2:
+Components of supply Chain Management, Introduction to four basic pillars.
+Week 3:
+Supply chain planning, Importance and Implications.
+Week 4:
+Supply chain sourcing, Importance and Implications.
+Week 5:
+Supply chain operations, Importance and Implications.
+Week 6:
+Supply chain logistics, Importance and Implications.
+Week 7:
+Supply Market analysis and importance of supplier relationships.
+Week 8:
+Supply chain Optimization, Importance and Implication.
+Week 9:
+Procurement Rules and Government practices.
+Instructor Name:
+Hasan Mutahhar and Syed Ali Adnan Hamdani
+Agile Project Management Using Scrum
+Duration
+8 to 10 weeks
+Introduction to Course
+This interactive training is meant to polish the Agile skills of professionals. It will also prepare students to understand the Agile practices followed in the software industry and will help them to better enter the software market.
+Course Content:
+Lecture 1:
+Introduction
+Lecture 2:
+An Overview of Agile & Scrum
+Lecture 3:
+Basic Concepts of Scrum
+Lecture 4:
+Daily Scrum / Daily Standup
+Lecture 5:
+Personas
+Lecture 6:
+User Stories
+Lecture 7:
+Definition of Done
+Lecture 8:
+The Scrum Team
+Lecture 9:
+Sprint Planning Meeting
+Lecture 10:
+Estimation
+Lecture 11:
+Scrum of Scrums
+Lecture 12:
+Information Radiators
+Lecture 13:
+Sprint Review & Demo
+Lecture 14:
+Retrospective Meeting
+Instructor Name:
+Sami uz Zafar 
+Instructor Profile:
+Sami uz Zafar graduated from Lahore University of Management Sciences (LUMS). He also did MS in IT from Carnegie Mellon University (CMU) with the “Highest Distinction” and won the “Award of Excellence”.
+He has 20+ years of experience of software development, project management and delivering professional trainings. He has delivered trainings to 1000+ professionals from 20+ countries including 100+ CEOs, CTOs, VPs, and Directors etc. He has delivered professional trainings to a long list of satisfied customers such as NetSol, Systems, Techlogix, Confiz, NorthBay, SSI, tkxel, FiveRivers, RolusTech, & dozens more.
+He has got various certifications related to Agile Project Management such as Project Management Professional (PMP), Agile Certified Practitioner (ACP), Certified Scrum Master (CSM), and Advanced Certified Scrum Product Owner (A-CSPO).
+AutoCAD: Basic to Pro
+Duration
+8 to 10 weeks
+Introduction to Course
+AutoCAD is an emerging field that combines creativity with technical skills. This course will help a trainee to acquire basic introduction of Computer Aided Design (CAD). This course will help you to learn this software step by step from beginner to professional level. The goal is to develop planning and designing skills starting with the fundamental theory and practice of AutoCAD and quickly advancing to draw basic drawing sets.
+This course puts you on the track of accomplishment by providing complete instructions on how to start your AutoCAD career as a freelancer and get the best AutoCAD jobs. The trainees can make a career in architectural & engineering design through this course.
+Course Outline
+Module 1: Introduction of AutoCAD
+Exploring the Interface: Ribbon, Panels, Model space, Layout tabs, Status bar, & Properties.
+Picking Points in the Drawing Area
+Opening an Existing File
+Saving a File as You Work
+Working with Multiple Files
+Understand AutoCAD setup tips, Options, Units, Workspace
+Understand basic drawing tools
+Module 2: Use of Commands
+Understand Layers – Name, Line type, Thickness, & Color
+Draw centre lines – Object snap, Line, Move, & Offest
+Draw exterior/interior walls, floor, millwork & openings – Polyline, Spline, Circle, Rectangle, Object Snap, Mirror, Fillet, Trim, Extend, Array, & Match Properties
+Assignment: Using different commands draw any Object to explore your creativity.
+Module 3:  Master Intermediate Skills
+Dim, & Dimension style
+Add/Edit blocks from AutoCAD Tool Palette & Other sources – Door, Window, Column, Plumbing, Furniture & Equipment
+Create custom blocks – Custom furniture
+Assignment: Make Sofa set furniture block
+Module 4:  Concept of Architecture drawings 
+Type of Drawings: Brief Introduction
+Examples of different live projects
+How to draw a plan from basic information?
+Assignment: Search different types of drawings produced in AutoCAD and present in front class.
+Module 5:  Draw an elevation and section from the floor plan
+Add/Edit Text & Annotation (in model space-annotative) – M Text, Text Style, M leader, and Multileader Style
+Using of blocks and furniture in drawings.
+Use of Hatch
+All details use in Architectural drawing set
+Assignment: Draw a 2D Plan.
+Module 6:  Set Sheets 
+Understand Model space and Paper space
+Set a new layout – Page layout and plot styles
+Set views in Paper space – Defpoints, scaling
+Add/Edit/Draw a title block
+Add/Edit symbols in Paper spaces – drawing title, elevation symbol and section letters, north arrow
+Printing
+Assignment: Draw a Basic Elevation. 
+Module 7:   Introduction of Submission Drawing 
+Review of submission drawing
+Examples of submission drawing
+Assignment: Final Project
+Module 8:   3D Modeling and Imaging
+Creating 3D Drawings
+Using Advanced 3D Features
+Editing and Visualizing 3D Solid
+Instructor Name:
+Rabia Muhammad Mansha 
+Instructor Profile:
+Rabia Muhammad Mansha is an Architectural Engineer. She has Six years of industrial experience in the construction, building design, management and architecture field. She also has three years of teaching experience as a Lecturer at COMSATS University of Information & Technology, Lahore. Currently she is working as Project Engineer in a UK based multinational Architectural Firm.
+She has done BSc Architectural Engineering from University of Engineering and Technology, Lahore and Masters of Architecture from University of the Punjab in Architectural Design.
+Intelligence Augmentation Through Generative AI and ChatGPTIntelligence Augmentation Through Generative AI and ChatGPT: Hands-On Workshop for Students and ResearchersAugust 7 to August 10, 2023 (Revised dates)Hybrid: ITU, Lahore, and Online
+Roughly 20 hours of instruction and hands-on exercises.
+To participate in the course:
+Before the cutoff date 27th July 2023, register at: http://itu.edu.pk/application/web/site/signup
+and pay the fee (10,000 PKR general; 5,000 PKR ITU student/staff; payable through ITU portal).
+Course Detail:
+️
+️Day 1: Introduction to Generative AI and ChatGPT
+Theory, Types, and Exciting Applications!
+️ Day 2: Crafting Powerful Prompts with ChatGPT 
+Prompt Engineering for ChatGPT. Prompt Recipes for Research. Crafting Effective Questions.
+️ Day 3: AI-Augmented Writing Workshop for Researchers! ✍️
+Discover How to Leverage Generative AI and ChatGPT in Your Research!
+️ Day 4: Effective Use of ChatGPT. Critical Evaluation. Ethics of Generative AI 
+Master Effective Use, Critical Evaluation, and Ethical Considerations! ✨
+Instructor Profile:
+Dr. Junaid Qadir 
+Introduction to Computer Networks
+MS Office & Office 365 Training
+MS office with office 365
+Overview 
+Microsoft Office 2016 and office 365 for PC is an innovative computer program that is highly recommended for people who are constantly on the go. Acquire essential skills for producing professional work with the Microsoft Office suite including Word, Excel, PowerPoint. This course bundle includes both basic and advanced features of Microsoft Word 2016, Excel 2016, PowerPoint 2016.
+The Microsoft Office Specialist Certification is renowned globally and this training course bundle can help you gain this recognisable and valuable certification online. If you want to demonstrate to an employer that you have top-level Microsoft Office skills, this Microsoft Office 2016 course will help set you apart from the rest.
+Office 365
+Office 365 focuses on accessibility to documents and communication, mobility, and team collaboration. This course will provide an overview of the apps available in Office 365. Learn the core features of Office 365, how they can simplify your workday and make your team more productive.
+Introduction to Office 365
+What is Office 365
+Ways to access Office 365 – online, desktop, mobile
+Benefits of using Office 365
+Navigate Office 365
+Customize Office 365 start page
+Search for apps, documents, people, team sites
+Overview of the apps
+Easily access documents
+Navigate with the start menu
+Work with your documents with OneDrive for Business
+Store personal documents with access anytime, anywhere, any device
+Search for documents
+See documents shared with you
+Recover deleted documents
+See your team documents
+Create new documents, or upload existing documents
+Manage sharing and permissions of documents yourself
+Work online, or in the desktop
+Collaborate and co-author documents in real-time
+Access your documents without an internet connection
+MS Word: 
+Create a document
+Create a blank document, create a blank document using a template, open a PDF in Word for editing, insert text from a file or external source
+Navigate through a document
+Search for text, insert hyperlinks, create bookmarks, move to a specific location or object in a document
+Format a document
+Modify page setup, apply document themes, apply document style sets, insert headers and footers, insert page numbers, format page background elements
+Customize options and views for documents
+Change document views, customize views by using zoom settings, customize the Quick Access Toolbar, split the window, add document properties, show or hide formatting symbols
+Print and save documents
+Modify print settings, save documents in alternative file formats, print all or part of a document, inspect a document for hidden properties or personal information, inspect a document for accessibility issues, inspect a document for compatibility issues
+Insert text and paragraphs
+Find and replace text; cut, copy, and paste text; replace text by using AutoCorrect; insert special characters
+Format text and paragraphs
+Apply font formatting, apply formatting by using Format Painter, set line and paragraph spacing and indentation, clear formatting, apply a text highlight color to text selections, apply built-in styles to text, change text to WordArt
+Order and group text and paragraphs
+Format text in multiple columns; insert page, section, or column breaks; change page setup options for a section
+Create a table
+Convert text to tables, convert tables to text, create a table by specifying rows and columns, apply table styles
+Modify a table
+Sort table data; configure cell margins and spacing; merge and split cells; resize tables, rows, and columns; split tables; configure a repeating row header
+Create and modify a list
+Create a numbered or bulleted list, change bullet characters or number formats for a list level, define a custom bullet character or number format, increase or decrease list levels, restart or continue list numbering, set starting number value
+Create and manage reference markers
+Insert footnotes and endnotes, modify footnote and endnote properties, create bibliography citation sources, modify bibliography citation sources, insert citations for bibliographies, insert figure and table captions, modify caption properties
+Create and manage simple references 
+Insert a standard table of contents, update a table of contents, insert a cover page
+Insert graphic elements 
+Insert shapes, insert pictures, insert a screen shot or screen clipping, insert text boxes
+Format graphic elements
+Apply artistic effects, apply picture effects, remove picture backgrounds, format objects, apply a picture style, wrap text around objects, position objects, add alternative text to objects for accessibility
+Insert and format SmartArt graphics
+Create a SmartArt graphic, format a SmartArt graphic, modify SmartArt graphic content
+MS Excel: 
+Create worksheets and workbooks
+Create a workbook, import data from a delimited text file, add a worksheet to an existing workbook, copy and move a worksheet
+Navigate in worksheets and workbooks
+Search for data within a workbook; navigate to a named cell, range, or workbook element; insert and remove hyperlinks
+Format worksheets and workbooks
+Change worksheet tab color, rename a worksheet, change worksheet order, modify page setup, insert and delete columns or rows, change workbook themes, adjust row height and column width, insert headers and footers
+Customize options and views for worksheets and workbooks
+Hide or unhide worksheets, hide or unhide columns and rows, customize the Quick Access Toolbar, change workbook views, change window views, modify document properties, change magnification by using zoom tools, display formulas
+Configure worksheets and workbooks for distribution
+Set a print area, save workbooks in alternative file formats, print all or part of a workbook, set print scaling, display repeating row and column titles on multipage worksheets, inspect a workbook for hidden properties or personal information, inspect a workbook for accessibility issues, inspect a workbook for compatibility issues
+Insert data in cells and ranges
+Replace data; cut, copy, or paste data; paste data by using special paste options; fill cells by using Auto Fill; insert and delete cells
+Format cells and ranges
+Merge cells, modify cell alignment and indentation, format cells by using Format Painter, wrap text within cells, apply number formats, apply cell formats, apply cell styles
+Summarize and organize data 
+Insert sparklines, outline data, insert subtotals, apply conditional formatting
+Create and manage tables
+Create an Excel table from a cell range, convert a table to a cell range, add or remove table rows and columns
+Manage table styles and options 
+Apply styles to tables, configure table style options, insert total rows
+Filter and sort a table 
+Filter records, sort data by multiple columns, change sort order, remove duplicate records
+Summarize data by using functions
+Insert references, perform calculations by using the SUM function, perform calculations by using MIN and MAX functions, perform calculations by using the COUNT function, perform calculations by using the AVERAGE function
+Perform conditional operations by using functions
+Perform logical operations by using the IF function, perform logical operations by using the SUMIF function, perform logical operations by using the AVERAGEIF function, perform statistical operations by using the COUNTIF function
+Format and modify text by using functions
+Format text by using RIGHT, LEFT, and MID functions; format text by using UPPER, LOWER, and PROPER functions; format text by using the CONCATENATE function
+Create charts
+Create a new chart, add additional data series, switch between rows and columns in source data, analyze data by using Quick Analysis
+Format graphic elements
+Resize charts, add and modify chart elements, apply chart layouts and styles, move charts to a chart sheet
+Insert and format objects
+Insert text boxes and shapes, insert images, modify object properties, add alternative text to objects for accessibility
+MS PowerPoint:
+Create a presentation 
+Create a new presentation, create a presentation based on a template, import Word document outlines
+Insert and format slides 
+Insert specific slide layouts; duplicate existing slides; hide and unhide slides; delete slides; apply a different slide layout; modify individual slide backgrounds; insert slide headers, footers, and page numbers
+Modify slides, handouts, and notes 
+Change the slide master theme or background, modify slide master content, create a slide layout, modify a slide layout, modify the handout master, modify the notes master
+Order and group slides 
+Create sections, modify slide order, rename sections
+Change presentation options and views 
+Change slide size, change views of a presentation, set file properties
+Configure a presentation for print 
+Print all or part of a presentation; print notes pages; print handouts; print in color, grayscale, or black and white
+Configure and present a slide show 
+Create custom slide shows, configure slide show options, rehearse slide show timing, present a slide show by using Presenter View
+Insert and format text 
+Insert text on a slide, apply formatting and styles to text, apply WordArt styles to text, format text in multiple columns, create bulleted and numbered lists, insert hyperlinks
+Insert and format shapes and text boxes 
+Insert or replace shapes, insert text boxes, resize shapes and text boxes, format shapes and text boxes, apply styles to shapes and text boxes
+Insert and format images 
+Insert images, resize and crop images, apply styles and effects
+Order and group objects 
+Order objects, align objects, group objects, display alignment tools
+Insert and format tables 
+Create a table, insert and delete table rows and columns, apply table styles, import a table
+Insert and format charts 
+Create a chart, import a chart, change the Chart Type, add a legend to a chart, change the chart style of a chart
+Insert and format SmartArt graphics 
+Create SmartArt graphics, convert lists to SmartArt graphics, add shapes to SmartArt graphics, reorder shapes in SmartArt graphics, change the color of SmartArt graphics
+Insert and manage media 
+Insert audio and video clips, configure media playback options, adjust media window size, set the video start and stop time, set media timing options
+Apply slide transitions 
+Insert slide transitions, set transition effect options
+Animate slide content 
+Apply animations to objects, apply animations to text, set animation effect options, set animation paths
+Set timing for transitions and animations 
+Set transition effect duration, configure transition start and finish options, reorder animations on a slide
+Merge content from multiple presentations 
+Insert slides from another presentation, compare two presentations, insert comments, review comments Finalize presentations 
+Protect a presentation, inspect a presentation, proof a presentation, preserve presentation content, export presentations to other formats
+Prerequisites
+Basic computer skills are required. No prior Office 365 experience is necessary.
+Blogging
+Course Outline
+Why you should blog?
+The role of blogs in digital marketing
+Blogging goals
+Building blog from scratch and take the existing blog to the next level
+Familiarization of the most effective type of content
+How to create effective content
+Understand the importance of effective writing and how to become a better writer
+SEO Basics
+How to pitch to marketers/publicists for sponsored collaborations
+Build a profitable business around your content and turn your blog into a revenue generating asset.
+Game Development And Modeling(Unity)
+Details
+The course will help you learn game development for mobile and PC platforms. The course is a hands-on program with actual development of a few games like a first-person shooter, running game, racing game, 2d games and more. We will be using Unity 3D as our main tool while we will be touching a few other tools like Photoshop for textures, Make Human, Maya and a few other tools for 3D models, humanoids and rigging and we will look into a few resources on web from where we can get free and paid assets.
+Course Outline:
+Session 1
+Introduction to game development, game loop, life cycle, development process, tools and techniques needed, software installation and basic components of a game.
+Session 2
+Building your first 3D scene, what is 2D and 3D game perspective, sprites, game objects, animations and their use in Unity
+Session 3
+Game object transformations, translation, rotation, scaling in game scenes. Objects, colliders, rigid bodies, gravity and game physics. Position, velocity, speed, acceleration and momentum. Physics material and rendering material
+Session 4
+Particle systems, environments, trees, terrains, building your first full game. An aircraft game with enemies. Setting your first light and camera.
+Session 5
+Handling camera for racing game, flying game, 2d games, running games, bird eye view game, 3rd person game, first person game etc. Adding water, smoke, mountains, trees and other objects on terrain
+Session 6
+A talk about textures and normal maps. Lights, shaders and making scenes that work best on different platforms. Running a same scene on PC, mobile and web. Where to get your assets – Asset store, websites vs make your own, what is better.
+Session 7
+Introduction to 3d models, humanoids and other objects. What are humanoids and what is rigging. Creating your own humanoid characters simple and easy with a free tool, rigging them.
+Session 8
+Using animated humanoids in game, making our FPS game with AI enemies, adding weapons, firing and killing enemies. Creating multi scene game.
+Session 9
+Making a 2D game for a change. Understanding game market, and importance of 2D games. How to optimize your game for low end platforms and mobiles.
+Session 10
+How to publish your game on play store. A summary of publishing your game on iTunes store will be shared too. How to monetize your game, free vs paid games, adding ads to your games using Admob.
+Mobile App development (IOS)
+Details
+Objectives:
+This short course will strive to train the candidates with core iOS development concepts and give them hands-on development experience in the most essential features set used currently. Moreover, we’ll touch upon some basic freelancing and professional attitude flaws that should be avoided and some traits that help in professional life.
+Pre-Requisites:
+Basic programing knowledge.
+Programing Languages and Algorithms.
+System and Tools Required
+Macbook/Hackentosh/VM with MacOS
+Xcode
+**If you don’t have above mentioned tools let us know we’ll arrange a WorkStation for you. You can practice and work on it using TeamViewer
+Course Outline:
+#
+Topics to be covered in the course
+1
+Introduction to Mobile Programming
+Class Logistics, Overview of iOS,
+Objective C Intro, Swift Intro
+Xcode and simulator Demo
+Feature set we’ll learn during the course
+2
+Foundation
+Interface builder
+Basic type of Application navigation
+Tab-Based Application
+Master-Details Application
+Application Life Cycle
+Reading Assignment 1
+3
+Different Controls that make an Application
+Image View, Web View, ScrollView Table View
+Camera
+Keyboard
+Core Data
+Reading Assignment 2 Developing
+4
+iOS application Basics
+Starting a project
+Basic Project Skeleton
+Programming Essentials
+Fundamental Design Patterns used
+Hello World Demo with basic controls
+Labels, Text Fields and Buttons
+Programming Assignment 1
+5
+Developing iOS application part 1
+Address book based application
+Exploring address-book framework
+Developing basic features of Address Book
+Programming Assignment 2
+6
+Developing iOS application part 3
+Exploring CoreImage Frame Work
+Camera and Photo Library
+Core Image effects and filters.
+Manipulating images and Saving.
+Programming assignment 4
+7
+Developing iOS application part 4
+Further Exploring Image Manipulation
+Animation and transitions
+Gestures Demo with image scaling translation and Rotation
+Basic Audio and video Features
+Programming assignment 5
+8
+Developing iOS application part 2
+Exploring Social Frameworks
+Login Using Social platforms
+Social share
+Programming assignment 3
+9
+Developing iOS application part 5
+Exploring Core Location and Mapkit
+Core Location Basics
+Getting the current location
+Placing a pin on Map
+Customizing the pin
+Mocking location on simulator if you don’t have device
+Live Location updating on map
+Programming assignment 6
+10
+Advance Programming features
+Push Notification
+In App Purchases
+API Calling and response handling
+11
+Application Deployment and Sharing
+Debugging and Crashlytics
+Provisioning Profile creation.
+Application signing and upload to Appstore
+12
+Professional Do’s and Dont’s
+Freelancing rules and basics
+How to handle your first Interview
+Q&A Session
+Instructor Profile:
+Ms. Sana Ahmad’s professional career started in 2009 during her final quarter of MS in LUMS, it was her first dive into iOS development as well. She has 11 years of professional experience which started as a software engineer at Tkxel. In a year She was the Team Lead managing her own projects as well as training junior and mid-level resources. She served this role for around 3.5 years and then embarked into the realm of entrepreneurship, by starting her first software startup RêveApps. This experience brought new challenges her way including establishing herself as a freelancer and leading a team. The core idea behind RêveApps was to work with start-ups and established brands, mostly from the US, as their development team, assist them in launching their mobile/web idea, furthermore help them to achieve their funding and seeding capital goals. She is also a founding member and CTO for another start-up LiveWire, a custom solution provider for software development and staff augmentation across the entire product development. During her period as an entrepreneur, She worked with international and local clients including MixCord, NatGeo, Moga-PowerA, getPikkUp, Favly, QuranIQ, Jazz, Ufone, and Jubilee. She has also worked with a team of 40+ developers, managed and trained them as IT professionals.Now here she is with yet a new endeavor professional teaching, intending to bridge the gap between the fundamental training and professional requirements.
+2D Animation from Sketch to Sprite
+2D Animation from Sketch to SpriteLearn how to design and animate a character in Photoshop! Join aspiring students and professionals, and begin designing game characters and animation.Looking to creating professional game graphics or maybe you want to learn a new skill to add to your portfolio, you will make the right choice in selecting this course.The 2D Animation from Sketch to Sprite Course will should you how to create high quality, stylized characters and animations for both production and games. The techniques taught in this course can be translated into just about any asset creation.The course is divided into 6 modules:
+Photoshop basics
+Understanding the layout
+Exploring tools
+Creating and editing type
+Using various selection and masking techniques
+The design process
+Understanding the process of designing a character for animation
+Understanding colour and how to use it effectively
+Building character assets
+Using Photoshop to create game assets/character
+Exploring time saving tools and tops for efficient workflow
+Sprite sheet creation
+Building animation sprite sheets
+Using Photoshop to create animations
+Animation cycles
+Understanding keyframes and timelines in Photoshop
+Using layers, keyframes and the timeline to animate
+Presenting your work and finding work
+Understanding the value of presentation
+Exploring freelancing opportunities
+Game Development (Unity)
+Game Development
+Course Outline
+The purpose of the course is to teach students about the overall process of game development. Computer games can be played today on a number of platforms. The course will equip students with the latest techniques using Unity and accompanying tools to develop quality games for PC, Mobile and Console platform.
+The summarized course outline will look like below:
+Week
+Topic
+1
+Introduction to the game development life-cycle, the game loop, a brief history of how games have been developed. Basic components of a game
+Sprites, animations, coordinate systems and handling input for 2D games. Introduction to Unity. Introduction to game physics
+2
+Introduction to 3D game systems and coordinates. Objects and their transformations that is rotation, scaling, translation and combinations. 3D and 2D vectors and their use. Scenes and cameras, perspective and different type of games with respect to angles. Running games, birds eye view games, racing games and more.
+3
+Object Collusion, Environments and Drawing the world, Particle Systems. Developing first full game, making the game run on PC and mobile phones.
+4
+Handling lights, particle systems, fire, smoke, water and more. Using Terrains, mountains and landscapes, placing objects like trees, stones and texturing them to create custom worlds.
+5
+Acquiring assets from online sources, websites, unity store and more. Importing such assets into the unity project and making a sample game.
+6
+Introduction to game physics, velocity, acceleration, collusion, momentum and how Unity handles it, how can we use game engines to make stunning effects in games. Materials, bounciness, elasticity, chains, ropes and hinges etc.
+7
+Game optimization and making sure it runs on the target platform. Ways to improve game efficiency without sacrificing a lot of quality.
+8
+Publishing games on different stores. Monetization models for games.  Using advertisements, in app purchases and more
+9
+Building humanoids for 3d games, 2 legged character design, texturing, optimization and rigging.
+10
+Creating animations and using the humanoids in 3D/ 2D games
+Tax Filing
+Introduction
+With more and more emphasis being put by the government on tax return filing, it is imperative for each one of us to understand the basics of how our income tax is calculated and what is our legal obligation with regards to income tax payment and income tax return filing. We should also be aware of risks of not filing our tax return or paying taxes. In addition, it is always good to know what various tax concessions and rebates are available to us to help us reduce our tax bill.
+In this course, you will learn how to
+Calculate your income tax
+File your tax return online, and Reduce your income tax by using tax concessions, credits, and rebates
+Brief Contents
+What is income tax and what are the filing obligations
+How to calculate income tax for salaried people
+Income tax rebates and credits
+How to use form IT-3 to adjust advance tax paid
+How to register for online tax return filing
+How to file income tax return electronically
+How to file wealth statement electronically
+What will not be covered
+Income tax for business persons
+Property tax
+Tax on investment income
+Capital gains tax
+Stamp duty and other taxes on real estate
+Corporate tax
+GST, Custom duty, and Excise duty etc
+Instructor Profile:
+Mr. Shahrukh Irfan is a Chartered Accountant and a Chartered Tax Advisor from the UK and holds MSc in accounting and finance from the London School of Economics (LSE). He has worked in Big 4 accounting firms in the UK for almost 7 years in income tax practice. He is currently teaching and consulting on personal tax in Pakistan.
+Building your legacy while Making money
+Course Details
+This is a course designed to give you a source of passive income so that you achieve financial freedom and focus on bigger things that you are born to do. The course has absolutely no prerequisite making it an ideal choice for professionals and students alike. This course starts with creating an entrepreneurial mindset before introducing ways to make money online while studying or working full time. After showing multiple ways to earn a passive income, It will dig deeper into drop-shipping and take you step by step through the entire journey of setting up an e-commerce store, finding a niche, product suppliers, branding and marketing. At the end of this course, you all will be fully equipped to run a passive income business. The course then moves on to finding your passion and what you really want to do in life. It teaches you several methods of finding a startup idea and tips to pursue it further. The course is a fusion of lectures, case-studies, exercises and hands on training.
+Instructor Profile:
+Hafee Atyub is an entrepreneur, innovation consultant & divergent thinker, who graduated from LUMS and went to Germany on DAAD funded research internship. Later, he founded BagAdverts which got incubated at Plan9 and eventually won CAREEM as his first customer. He was also selected among top 20 out of 500+ applicants for Kazan OIC Youth Entrepreneurship forum held in Russia. He also presented at Idea Cororon Ka TV show. He believes that human beings are the best of the creations and entrepreneurship is their innate nature.
+￩
+￫
+x
+×
+                            Previous
+                            Next
+students
+news
+Grading Policy
+Forms & Documents
+Library Resources
+Programs Offered
+Campus Life
+admissions
+Trainings & Short Courses
+BS Economics with Data Science
+BS Management & Technology
+BS Computer Engineering
+BS Electrical Engineering
+BS Computer Science
+BS Software Engineering 
+BS Artificial Intelligence 
+Executive MBA (EMBA)
+MS Development Studies
+MS Public Policy and Society
+MS Management and Technology
+MS Data Science
+MS Computer Science
+MS Electrical Engineering
+MS Computer Engineering
+PhD Computer Science
+PhD Electrical Engineering
+Eligibility Criteria
+Admission Test
+Fee Structure
+Scholarships
+university
+About
+Jobs & Openings
+Student Services & Placement Office (SSPO)
+Research Centres
+Faculty
+Tenders
+RTI
+NEWSLETTER SUBSCRIPTION
+Subscribe to keep yourself updated with the latest news & happenings
+ITU Admissions Office
+6th Floor, Arfa Software Technology Park, Ferozepur Road, Lahore
+E   admission@itu.edu.pk
+Admission Queries   042-99046061   |   0307-0111488
+UAN     (042) - 111-111-ITU (488)
+HOME
+ABOUT
+CAREERS
+CONTACT
+© 2024 Information Technology University of the Punjab
