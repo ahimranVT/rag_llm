@@ -4,3 +4,5 @@ transformers
 langchain
 spacy
 sklearn
+flask
+python-dotenv

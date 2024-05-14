@@ -1,137 +1,119 @@
 import os
+import pickle
 import requests
 import json
-from bs4 import BeautifulSoup
-import numpy as np
-from helpers import embed, save_chunks, read_chunks
-from transformers import BertModel, BertTokenizer
-from langchain.text_splitter import RecursiveCharacterTextSplitter
+from dotenv import load_dotenv
+from helpers import embed, save_chunks, read_chunks, segment_chunk
 from sklearn.metrics.pairwise import cosine_similarity
 
-# Scrape data from test_url using Beautiful soup 
-scraping_URL = "https://itu.edu.pk/cet/courses/"
-scraping_data_file_path = "data.txt"
-embeddings_file_path = "embeddings.npy"
-chunks_file_path = "chunks.npy"
-
-page = requests.get(scraping_URL)
-soup = BeautifulSoup(page.content, "html.parser")
-text = soup.get_text()
-
-# Overwrite existing file, put scraped data in data.txt
-if os.path.exists(scraping_data_file_path):
-    os.remove(scraping_data_file_path)
-
-with open(scraping_data_file_path, "w", encoding="utf-8") as file:
-    file.write(text)
-file.close()
-
-# Remove new line characters and spacing from text in data.txt
-with open(scraping_data_file_path, "r+", encoding="utf-8") as file:
-    lines = file.readlines()
-    file.seek(0)
-
-    # file.writelines(line for line in lines if line.strip())
-    text = ''.join(line for line in lines if line.strip())
-    file.write(text)
-
-    file.truncate()
-
-# Split the stored text into chunks
-text_splitter = RecursiveCharacterTextSplitter(
-chunk_size=750, chunk_overlap=0, separators=["\n", "."]
-)
-chunks = text_splitter.split_text(text)
+chunks = []
+cleaned_data_filepath = "ITU_data.txt"
+embeddings_filepath = "embeddings.pkl"
+text_chunks_file_path = "chunks.csv"
+embedding_model_context = 250
 
 chunk_dict = {}
-embedding_list = []
+embedding_dict = {}
 
-if not os.path.isfile(embeddings_file_path):
-    for i, chunk in enumerate(chunks[:10]):
+load_dotenv()
+
+llm_url = os.getenv("LLM_URL")
+llm_name = os.getenv("LLM_NAME")
+llm_auth_token = os.getenv("LLM_AUTH_TOKEN")
+
+with open(cleaned_data_filepath, 'r', encoding="utf-8") as file:
+    lines = file.readlines()
+    for line in lines:
+        chunks.append(line)
+
+if not os.path.isfile(embeddings_filepath):
+    for i, chunk in enumerate(chunks[:4]):
+        if len(chunk) > embedding_model_context:
+            subchunk_embeddings = []
+
+            subchunks = segment_chunk(chunk, embedding_model_context)
+            subchunk_embeddings = [embed(subchunk) for subchunk in subchunks]
+
+            embedding_dict[i] = subchunk_embeddings
+        else:
+            embedding_dict[i] = [embed(chunk)]
+
         chunk_dict[str(i)] = chunk
-        embedded_chunk = embed(chunk)
-        embedding_list.append(embedded_chunk)
+        
+    save_chunks(chunk_dict, text_chunks_file_path)
 
-    embedding_list = [np.array(embedding) for embedding in embedding_list]
+    with open(embeddings_filepath, 'wb') as file:
+        pickle.dump(embedding_dict, file)
 
-    save_chunks(chunk_dict, "chunks.csv")
-    np.save("embeddings.npy", embedding_list)
 else:
-    embedding_list = np.load(embeddings_file_path, allow_pickle=True)
-    read_chunks(chunk_dict, "chunks.csv")
+    chunk_dict = read_chunks(chunk_dict, text_chunks_file_path)
 
+    with open(embeddings_filepath, 'rb') as file:
+        embedding_dict = pickle.load(file)
 
-def retrieval(query, embedding_list, chunk_dict, n):
-    most_similar_chunks = {}
+    # print(f" The loaded embedding_dict has {len(embedding_dict)} embedding lists.")
+
+    # for embedding in embedding_dict.values():
+    #     print(f"Each {type(embedding)} contains vectors for one chunk. This chunk has {len(embedding)} subchunks")
+    #     print(f"This subchunk is a {type(embedding[0])} with {len(embedding[0])} vectors")
+    #     print("____________________________________________________________________________________")
+
+def retrieval(query, embedding_dict, chunk_dict, n):
+    best_similarity_scores = {}
 
     query_embedding = embed(query)
 
-    for i, embedding in enumerate(embedding_list):
-        similarity = cosine_similarity([query_embedding], [embedding])
-        most_similar_chunks[i] = similarity[0][0] 
+    for chunk_id, embedding_list in embedding_dict.items():
+        current_chunk_similarity = []
+        
+        for subchunk_embedding in embedding_list:
+            similarity = cosine_similarity([query_embedding], [subchunk_embedding])
+            current_chunk_similarity.append(similarity[0][0])
 
-    most_similar_chunks = dict(sorted(most_similar_chunks.items(), key=lambda item: item[1], reverse=True)[:n])
+        best_similarity_scores[chunk_id] = max(current_chunk_similarity)
 
-    for key, val in most_similar_chunks.items():
-        print(str(key) + ":", val)
-        print('\n')
-        print(chunk_dict[str(key)] + '\n')
+    best_similarity_scores = dict(sorted(best_similarity_scores.items(), key=lambda item: item[1], reverse=True)[:n])
+
+    # for key, val in most_similar_chunks.items():
+    #     print(str(key) + ":", val)
+    #     print(chunk_dict[str(key)] + '\n')
+    most_similar_chunks = [chunk_dict[str(key)] for key, val in best_similarity_scores.items()]
 
     return most_similar_chunks
 
-print(len(chunk_dict))
-retrieval("Who holds a BS in Computer Science and worked with Software", embedding_list, chunk_dict, 10)
+question = "How many startups has Syed Basit Ali Jafri found?"
+rag = retrieval(question, embedding_dict, chunk_dict, 1)
+
+# print(rag)
+payload = json.dumps({
+  "model": llm_name,
+  "prompt": f"""You are a question answer model. You will be given a question inside this delimiter #### question ####. 
+  Following the question, you will be provided with the relevant data. You being an execellent retrieval have to find the question's 
+  answer from the data given inside this delimiter @@@@ data @@@@.  Return an informative answer to the question as your response.
+  Make sure this answer is within 200 characters.
+  The following is the information provided to you.
+  ####{question}#### @@@@{rag}@@@@.
+  """
+})
+headers = {
+  'Content-Type': 'application/json',
+  'Authorization': f"Bearer {llm_auth_token}"
+}
+
+response = requests.request("POST", llm_url, headers=headers, data=payload)
+answer = response.json()['choices'][0]['text']
+
+start_index = answer.find("Answer:") + len("Answer:")
+end_index = answer.find("Explanation:")
+
+extracted_text = answer[start_index:end_index].strip()
+
+print('\n' +  extracted_text + '\n')
+
+
+                 
 
 
 
+                 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# print('\n' + response.json()['choices'][0]['text'] + '\n')
-
-
-
-# Tokenize the chunks
-# tokenizer = BertTokenizer.from_pretrained('bert-base-uncased')
-
-# tokenized_chunks = []
-# for chunk in chunks:
-#   tokenized_chunks.append(tokenizer.tokenize(chunk))
-
-
-
-
-
-
-
-
-
-# from dotenv import load_dotenv
-# load_dotenv()
-
-# # Configure the LLM
-# hf_token = "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"
-# model_id = "sentence-transformers/all-MiniLM-L6-v2"
-
-# url = "https://api.awanllm.com/v1/completions"  
-
-# payload = json.dumps({
-#   "model": "Meta-Llama-3-8B-Instruct",
-#   "prompt": "What is the meaning of life?"
-# })
-# headers = {
-#   'Content-Type': 'application/json',
-#   'Authorization': f"Bearer {'f947d77f-f534-4ff4-b03d-eaca09d8243d'	}"
-# }
