@@ -3,7 +3,7 @@ import numpy as np
 import csv
 import os
 from dotenv import load_dotenv
-
+from sklearn.metrics.pairwise import cosine_similarity
 
 load_dotenv()
 
@@ -44,3 +44,24 @@ def segment_chunk(chunk, segment_length):
         segment = chunk[start:end]
         chunk_segments.append(segment)
     return chunk_segments
+
+# Finds the most similar chunks of text to a user's query and returns them
+def retrieval(query, embedding_dict, chunk_dict, n):
+    best_similarity_scores = {}
+
+    query_embedding = embed(query)
+
+    for chunk_id, embedding_list in embedding_dict.items():
+        current_chunk_similarity = []
+        
+        for subchunk_embedding in embedding_list:
+            similarity = cosine_similarity([query_embedding], [subchunk_embedding])
+            current_chunk_similarity.append(similarity[0][0])
+
+        best_similarity_scores[chunk_id] = max(current_chunk_similarity)
+
+    best_similarity_scores = dict(sorted(best_similarity_scores.items(), key=lambda item: item[1], reverse=True)[:n])
+
+    most_similar_chunks = [chunk_dict[str(key)] for key, val in best_similarity_scores.items()]
+
+    return most_similar_chunks

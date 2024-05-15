@@ -4,5 +4,23 @@ Index
 {% endblock %}
 
 {% block content %}
-<h1> Home Page</h1>
+<div class ="container">
+    <div class=" surrounding-box">
+        <div class="text-center">
+            <form action="/process_question" method="POST">
+                <label for="user_input" >Enter a question about the ITU Faculty:</label><br>
+                <input class= "text-box" type="text" id="user_input" name="user_input" placeholder="Enter a question...">
+                <button type="button" class="btn btn-info" >Submit</button>
+            </form>
+            {%if answer %}
+            <div class="answer-container">
+                <div class="answer">  
+                    <p>{{answer}}</p>
+                </div>
+            </div>
+            {% endif %}
+                
+        </div>
+    </div>
+</div>
 {% endblock %}
